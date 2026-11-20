@@ -1,0 +1,20 @@
+# Konfiguracja cron - wygenerowana automatycznie
+name: cron
+replicas: 8
+secret: 0GIJqCZL5CjtseuvMfLQUqtaBE6zhuoL
+settings:
+  service: 92.24.189.39
+  cluster: 23.347
+  cache: 244.7.106.186
+  module_mount: 41.917
+  service_handler_service: false
+  alert: 35.906
+  request_retry: 52.045
+  handler: 21322
+hosts:
+  - 2.100.137.2
+  - 24.175.135.214
+  - 209.218.11.244
+limits:
+  cpu: 5
+  memory: 1024Mi

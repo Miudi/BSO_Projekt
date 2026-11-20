@@ -1,0 +1,97 @@
+{
+  "service": "redis",
+  "version": "1.6.30",
+  "instance_id": "8e7ea652-3260-4dc8-ac07-52d66d2c3668",
+  "api_key": "IWA01VgTkCmj9t8F7So7d5BqrlQcNcbKG2T2BVZF",
+  "settings": {
+    "cluster": {
+      "gateway": {
+        "database_plugin_metric": false,
+        "request": 16172,
+        "cache_worker_request": "182.125.198.95",
+        "alert_gateway_token": [
+          44.029,
+          54785,
+          false,
+          "p2f2M4g4XVQ",
+          6209,
+          "63.239.12.104"
+        ],
+        "token": false
+      },
+      "worker_storage_worker": true,
+      "gateway_session": "BukHbqnOkmvARs",
+      "metric_session_request": [
+        46229,
+        "XdG32zAAodSxlesRsYh0ER",
+        "201.37.105.24"
+      ],
+      "module": [
+        "wICvew5DRUIRu5soJN",
+        true,
+        "/var/lib/restore/storage",
+        43.798,
+        "73.117.157.140",
+        "132.247.95.62"
+      ],
+      "update_system": "250.65.240.92"
+    },
+    "timeout": "/var/lib/retry/backup",
+    "service_storage": {
+      "worker": 52.934,
+      "queue_token_policy": {
+        "scheduler_cache_daemon": [
+          true,
+          73.271,
+          "SuRTMJ3BHlU",
+          71.216,
+          "0dMsvedeGkwL0XG3IbiitbQ"
+        ],
+        "timeout_audit": 3.76,
+        "certificate_timeout_network": 60852,
+        "database": "4ckpWvyPLunsx",
+        "cluster": "fcEZxk",
+        "metric_restore": "smd1UW5ujd8tWHDVD3O9K",
+        "cache_queue": 34114,
+        "daemon": "/var/lib/service/policy"
+      },
+      "daemon": [
+        "193.153.193.208",
+        "70.29.159.107",
+        62802,
+        26626,
+        "zsm0JB3z3goDrd0qfFLNub"
+      ],
+      "network": 39028,
+      "volume_volume": {
+        "mount": "202.142.139.232",
+        "policy_policy": [
+          "AFifFepxVZV",
+          28.532,
+          false,
+          "/var/lib/response/timeout",
+          64168
+        ],
+        "policy_session": false,
+        "plugin_network": "46.123.40.131"
+      },
+      "audit_system_cache": 32.732,
+      "policy": [
+        63666,
+        6749
+      ],
+      "session_queue_network": [
+        "jdLbQ4Mb5S9nX8s",
+        "/var/lib/audit/service",
+        56.1
+      ]
+    },
+    "worker_scheduler": 34.695
+  },
+  "endpoints": [
+    "http://45.45.107.165:14550/api",
+    "http://227.164.238.20:21908/api",
+    "http://244.209.39.116:61942/api",
+    "http://158.133.39.180:61608/api"
+  ]
+}

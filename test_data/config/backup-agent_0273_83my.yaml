@@ -1,0 +1,17 @@
+# Konfiguracja backup-agent - wygenerowana automatycznie
+name: backup-agent
+replicas: 6
+secret: X708s9GT7M4GpKVzN155xlmoWCzkKaPW
+settings:
+  mount_storage: /var/lib/module/service
+  alert_response_worker: true
+  plugin_session: 165.106.212.62
+  cluster: 67.130.228.240
+  backup: bpTrxu6DP3erbFqr
+hosts:
+  - 144.197.97.246
+  - 128.33.127.99
+  - 8.157.15.132
+limits:
+  cpu: 4
+  memory: 512Mi

@@ -1,0 +1,22 @@
+# Konfiguracja sshd - wygenerowana automatycznie
+name: sshd
+replicas: 7
+secret: DnOhKNAXBBbEo2jpSKR9XiXfpfQNj8uq
+settings:
+  timeout_daemon_response: 85.146.181.139
+  scheduler_token_database: true
+  storage: false
+  token_token_policy: 97.724
+  network: 17938
+  token_cluster: false
+  gateway_system_cache: 44.375
+  service_module: pd5rh5dMQh1FjRJtxsXG
+hosts:
+  - 251.139.249.251
+  - 42.20.29.206
+  - 140.26.139.236
+  - 233.172.4.17
+  - 20.213.215.170
+limits:
+  cpu: 7
+  memory: 1024Mi

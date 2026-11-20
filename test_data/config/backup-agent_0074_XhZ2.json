@@ -1,0 +1,81 @@
+{
+  "service": "payment-svc",
+  "version": "5.15.15",
+  "instance_id": "2256b26d-5e65-4172-a16f-70fe4467908d",
+  "api_key": "B3R3RbLIZYS6L9tvOu31Cqb6qZ8KAsjeuTWqc1wT",
+  "settings": {
+    "session": {
+      "metric_module_request": {
+        "queue": [
+          78.194,
+          "/var/lib/database/certificate",
+          17797,
+          47.117,
+          42.444,
+          true
+        ],
+        "request_storage": [
+          "/var/lib/kernel/scheduler",
+          "226.100.176.63",
+          25954,
+          "bsRCSwOqeZ",
+          83.834,
+          18.934
+        ],
+        "volume_audit": [
+          "145.207.77.224",
+          "kqnqwfc1I3XspHGB",
+          "253.217.59.18",
+          44145,
+          47871
+        ],
+        "backup": [
+          "15.62.154.27",
+          18.93,
+          "/var/lib/request/audit"
+        ],
+        "queue_token_response": "/var/lib/kernel/network",
+        "volume": [
+          "E7Z9Vl3t",
+          80.433,
+          50137,
+          68.969
+        ]
+      },
+      "handler_token": "XtTpesSlb3y",
+      "mount_metric_request": [
+        66.456,
+        "yl6I5Vi1bgbv7Dp2k",
+        51730
+      ],
+      "gateway_timeout_backup": {
+        "gateway": [
+          "/var/lib/daemon/update",
+          43096,
+          "/var/lib/response/retry",
+          "T9L0I1WPV1Lj",
+          43346
+        ],
+        "audit": "240.162.72.25",
+        "database": "UOIvI4ksSkJNgOvN5v",
+        "network_volume_backup": 57626,
+        "queue": [
+          "EJJtsU5TKXVRslhSi8EPA",
+          "/var/lib/network/mount",
+          false,
+          true,
+          10226
+        ],
+        "request_cluster_handler": "3UUloTfred3hiY"
+      },
+      "retry_restore_storage": "/var/lib/handler/storage"
+    },
+    "certificate_system": false,
+    "audit_alert": "29.204.57.254"
+  },
+  "endpoints": [
+    "http://111.130.174.4:12217/api",
+    "http://12.203.53.1:6455/api",
+    "http://162.73.172.236:37078/api"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "service": "auth-api",
+  "version": "2.11.17",
+  "instance_id": "20a329e9-aa5e-4ac1-9411-28d6d232768f",
+  "api_key": "bcXLgSCN25ACI62AKJfISTlf2xS6TFTAvsqbuN4g",
+  "settings": {
+    "handler_policy_audit": [
+      21922,
+      10.925,
+      true,
+      "4Hvh4uL2qNryh1Pt",
+      "/var/lib/plugin/handler",
+      88.787
+    ],
+    "backup_timeout_policy": false,
+    "module_session": 42.289
+  },
+  "endpoints": [
+    "http://101.216.118.184:27098/api"
+  ]
+}

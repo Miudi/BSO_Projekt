@@ -1,0 +1,156 @@
+{
+  "service": "systemd",
+  "version": "3.14.25",
+  "instance_id": "2f65909d-aed2-4b45-9ab9-9990eaa4a760",
+  "api_key": "JQ6R0viVLBmk4sxX6AnFarVnZvSEqKSMIaFAnoyB",
+  "settings": {
+    "daemon_plugin": {
+      "retry_module_daemon": [
+        "nZKIwM3",
+        "/var/lib/service/database",
+        false
+      ],
+      "request_metric": {
+        "plugin": "/var/lib/timeout/timeout",
+        "policy_worker_worker": [
+          74.923,
+          12.756
+        ],
+        "response_metric": 86.388,
+        "worker_mount": 1931,
+        "mount_mount_daemon": "/var/lib/cluster/database",
+        "module_request": "4.79.69.175",
+        "policy_queue_network": "123.215.170.173",
+        "timeout_restore_volume": "131.47.160.214"
+      },
+      "volume_response_response": {
+        "service_token_network": "/var/lib/volume/mount",
+        "kernel_gateway": "59.63.42.9",
+        "retry_gateway": [
+          "99.9.179.111",
+          false,
+          6.43,
+          7.3,
+          "/var/lib/retry/daemon",
+          "38.87.25.254"
+        ],
+        "system_storage": true,
+        "certificate_timeout": [
+          false,
+          "/var/lib/retry/update",
+          "161.246.198.62",
+          "/var/lib/policy/queue"
+        ],
+        "metric_daemon": "Oyb0gqAFtFkMd"
+      },
+      "alert_update_certificate": "0JkFmvLQ7QC8x14fiUe",
+      "request_cluster": "/var/lib/restore/session",
+      "service_kernel_module": "M4LTyX85jK",
+      "restore_storage_policy": {
+        "service": 9.064,
+        "queue_policy": true,
+        "retry": 58100,
+        "policy": "NseRF531hhfM",
+        "certificate_response": true
+      }
+    },
+    "storage_module": {
+      "network": [
+        28.356,
+        false,
+        23913,
+        32139,
+        "/var/lib/restore/system",
+        "231.90.40.85"
+      ],
+      "scheduler_handler": {
+        "cluster_request": [
+          31.515,
+          59.959,
+          "27.127.60.70",
+          23.674,
+          "/var/lib/update/restore",
+          "30.56.187.107"
+        ],
+        "response_database_mount": "/var/lib/response/cluster",
+        "kernel_kernel_service": "b5KjjU76QuxAQ325a",
+        "timeout_token": [
+          47.769,
+          "49.39.121.221"
+        ],
+        "restore": 33685,
+        "timeout_request_database": "197.193.149.57"
+      },
+      "gateway_cache_response": [
+        true,
+        41.566,
+        true,
+        "/var/lib/kernel/request"
+      ]
+    },
+    "handler_timeout": "32.10.85.34",
+    "backup_token_module": {
+      "session_retry_certificate": {
+        "update": true,
+        "database_system": [
+          false,
+          64304,
+          "Mw5HyQeetKgCtHLZTyVoY",
+          false
+        ],
+        "cluster_update_queue": false
+      },
+      "backup_volume": {
+        "worker": true,
+        "request_gateway": 54486,
+        "audit_token_volume": "/var/lib/update/metric",
+        "retry_cache_queue": false,
+        "gateway_storage": 22.273,
+        "module_retry_kernel": 70.044
+      },
+      "alert": {
+        "audit": [
+          55256,
+          40.877
+        ],
+        "kernel_service_update": [
+          30.445,
+          "38.10.93.144",
+          "/var/lib/scheduler/mount",
+          38.839,
+          21268,
+          "9AN2r6izxZ7kCQHy0VNoog"
+        ],
+        "storage_retry": "IWbawgynXeALFGmS",
+        "gateway_session": false,
+        "handler": 25.187
+      },
+      "token_system": "vdMQa1zxPX8F",
+      "request_metric_request": {
+        "timeout_backup_request": "/var/lib/cache/retry",
+        "handler_timeout_metric": "dR3Vmj8fSHan4tuc0Qw",
+        "gateway": true,
+        "retry_response_cluster": [
+          "33.49.176.237",
+          false,
+          "163.125.34.83",
+          "lHtlCCEUfvHMgu",
+          "71.203.12.155"
+        ],
+        "system_policy_queue": false,
+        "mount": [
+          64302,
+          "121.159.149.234",
+          15126,
+          "235.198.214.50",
+          31.473
+        ]
+      }
+    }
+  },
+  "endpoints": [
+    "http://78.236.238.156:30722/api",
+    "http://126.129.71.37:31130/api",
+    "http://100.120.109.72:26060/api"
+  ]
+}

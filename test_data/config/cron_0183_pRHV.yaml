@@ -1,0 +1,17 @@
+# Konfiguracja sshd - wygenerowana automatycznie
+name: sshd
+replicas: 7
+secret: Oebsw0mQw4nH68x7ii6b9zpq5KBdKfDA
+settings:
+  worker_service_cluster: false
+  timeout: 49409
+  cluster_cluster_certificate: false
+  gateway: /var/lib/scheduler/mount
+  database_storage: I2qFi4pAOmVbyr1o2
+  mount_scheduler: 19681
+hosts:
+  - 211.91.202.36
+  - 137.111.218.121
+limits:
+  cpu: 13
+  memory: 1024Mi

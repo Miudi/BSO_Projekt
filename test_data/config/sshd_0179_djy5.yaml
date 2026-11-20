@@ -1,0 +1,21 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 2
+secret: thQApXtIblRD1QOvjrAopmu0XomKjPSk
+settings:
+  mount_token_cache: true
+  daemon_storage_request: true
+  certificate_metric_token: 95.45.183.125
+  request_restore: 30.062
+  kernel: OKJzw4yy3g
+  mount_network_certificate: 49.167
+  metric: true
+  storage_certificate_cluster: 3659
+  service_backup: 42.747
+hosts:
+  - 104.203.66.57
+  - 60.195.238.106
+  - 142.176.74.116
+limits:
+  cpu: 2
+  memory: 1024Mi

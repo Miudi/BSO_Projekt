@@ -1,0 +1,19 @@
+{
+  "service": "postgres",
+  "version": "2.20.40",
+  "instance_id": "b023063c-ec26-4913-ba64-365d6785c72e",
+  "api_key": "TbmKovHRpCRQmr0AQCxrIAMLUyiMXw7IooiPy5rY",
+  "settings": {
+    "cache": [
+      true,
+      17.041,
+      35.426
+    ],
+    "response": 31613,
+    "token_system": 90.088,
+    "cluster_volume": true
+  },
+  "endpoints": [
+    "http://60.244.241.187:45631/api"
+  ]
+}

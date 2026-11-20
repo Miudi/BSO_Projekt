@@ -1,0 +1,98 @@
+{
+  "service": "kubelet",
+  "version": "3.3.99",
+  "instance_id": "cdde543a-007b-4959-8d25-17f7c665e7e0",
+  "api_key": "YxonYGw5JUQFzyZB7BmekJEvXyy6tjZb7ERSHUw5",
+  "settings": {
+    "daemon_scheduler": "242.68.65.179",
+    "scheduler_database": {
+      "worker": "36.123.182.10",
+      "gateway_cache_backup": {
+        "request_module_alert": "/var/lib/gateway/system",
+        "retry_handler_alert": false,
+        "gateway_volume_alert": [
+          "199.79.95.135",
+          37199,
+          "VFdhYMQpkXa",
+          "200.230.101.55"
+        ],
+        "service_alert_session": "vpH9ksGIbWY",
+        "audit": "pqJPV8",
+        "volume_token": 54.352,
+        "mount_cache": "DZv3TR"
+      },
+      "restore": "hnml3665qNZncoluIz",
+      "metric": false,
+      "database": "/var/lib/certificate/service",
+      "handler_handler_timeout": "/var/lib/scheduler/mount",
+      "gateway_handler_token": 20273,
+      "request_policy": {
+        "handler_plugin": "/var/lib/policy/volume",
+        "alert_mount": true,
+        "backup": [
+          "26.190.220.86",
+          "gjzKeQ77OMzFO1CP3J"
+        ],
+        "session_gateway": [
+          "RwLgpAuGo1stlwUb5hZF77",
+          26685,
+          "16.116.251.110"
+        ],
+        "module_gateway": [
+          "145.78.73.31",
+          "/var/lib/retry/restore",
+          59857,
+          40.415
+        ],
+        "database_certificate": "176.190.253.27"
+      }
+    },
+    "certificate_mount": {
+      "database_volume": {
+        "storage_service": "OwbmRMIV",
+        "update_restore": "/var/lib/network/handler",
+        "policy_session": 49054
+      },
+      "response_restore": {
+        "session": "/var/lib/system/session",
+        "policy_backup": "63.186.203.43",
+        "cache_worker_daemon": "108.48.25.114"
+      },
+      "daemon_queue_session": 61200,
+      "session_volume": {
+        "cache_certificate": false,
+        "worker_alert_system": 9979,
+        "metric_alert_cache": "QVs5BtNx6B2Wms4",
+        "session_mount_token": true,
+        "network_session": 71.225
+      },
+      "system_audit_certificate": [
+        "qrHt2PFIx4q6Mlahulu5sYTH",
+        "T9t10Eu0ws",
+        "goVpGgjEQ7",
+        "5TU6JaDwz7FxhrQa"
+      ],
+      "session_service": "j4isYtCNfLKwCaORhl1B"
+    },
+    "request": [
+      true,
+      57934,
+      true,
+      12043,
+      "/var/lib/audit/service"
+    ],
+    "worker_request_cluster": [
+      true,
+      false,
+      "P56riPYg9ouVM6",
+      7.456,
+      "F4roJD4"
+    ],
+    "system": 53868,
+    "gateway_network_network": true
+  },
+  "endpoints": [
+    "http://118.167.86.184:17307/api",
+    "http://44.162.162.192:47692/api"
+  ]
+}

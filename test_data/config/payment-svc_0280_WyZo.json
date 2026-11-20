@@ -1,0 +1,111 @@
+{
+  "service": "postgres",
+  "version": "7.20.38",
+  "instance_id": "08a49673-6c21-4802-a0a1-f046e091214a",
+  "api_key": "Jm3tyEyppkhlK18FycUYRzwzBB2Y8zmr53cWeZsF",
+  "settings": {
+    "database": {
+      "network_worker": {
+        "cache_plugin_request": [
+          "YsLJgjxUis3bNp7u",
+          "cH8fFSO67nhZt8RRwDanknkK",
+          20.511,
+          true,
+          true,
+          "pLzeqzol2LIIu51iH0DcG"
+        ],
+        "token_plugin": [
+          true,
+          66.776,
+          "40.6.9.16",
+          "/var/lib/storage/restore"
+        ],
+        "database_session_request": true,
+        "alert": "/var/lib/retry/restore",
+        "backup_service_gateway": [
+          "WLTf8XR",
+          74.927,
+          83.852,
+          "22.32.160.244",
+          "/var/lib/gateway/certificate",
+          "107.248.21.25"
+        ],
+        "handler_timeout_mount": "HU9FkcWliJR",
+        "cluster_scheduler_audit": "xdSzgxsEHEcAIrdv",
+        "network_module": "223.60.178.30"
+      },
+      "certificate_cluster_queue": [
+        58.92,
+        "/var/lib/cache/audit"
+      ],
+      "system_storage_response": "3.222.114.106",
+      "policy_mount": 35.685,
+      "timeout_service_service": "/var/lib/plugin/token",
+      "audit_session": [
+        "/var/lib/metric/retry",
+        76.292
+      ]
+    },
+    "cache_retry": 36324,
+    "module": "157.175.211.23",
+    "update": {
+      "timeout_database_cluster": "z9MJXPRxt",
+      "module_system_plugin": false,
+      "policy": true,
+      "metric": "7BNev7AhqY9haRuWq4",
+      "cluster_scheduler_audit": "JYyKI4kVv7t2MDJA",
+      "alert_storage_audit": "GXhjKx",
+      "gateway_timeout": 26049
+    },
+    "worker": {
+      "session_daemon_audit": {
+        "policy_metric_mount": [
+          "202.207.248.72",
+          false,
+          47481
+        ],
+        "module": "/var/lib/update/session",
+        "restore": 3.46,
+        "volume_daemon": 39316,
+        "request": "35.126.26.208",
+        "policy": "/var/lib/database/system",
+        "database": 17.552
+      },
+      "storage_cache_database": {
+        "module_service_cluster": "101.52.182.1",
+        "module_certificate": "194.145.18.131",
+        "handler": 868
+      },
+      "kernel": true,
+      "system_mount_mount": {
+        "request_policy": [
+          "936mfmT7Wljy1XxfEkqLo6",
+          "70.193.78.22"
+        ],
+        "gateway_network_request": 70.267,
+        "audit_storage_request": [
+          0.658,
+          "/var/lib/session/scheduler",
+          "201.14.101.252",
+          "B5BpOI9cL0gqxzu",
+          63489,
+          49959
+        ],
+        "kernel_handler": "212.254.109.227",
+        "volume": "G6YhiuwhtIvhPEp4XI",
+        "module": false,
+        "mount_policy": [
+          71.932,
+          true,
+          "/var/lib/gateway/request",
+          "SFvo1UZdB4oG6y",
+          true
+        ],
+        "queue_request_queue": 85.521
+      }
+    }
+  },
+  "endpoints": [
+    "http://202.93.223.86:12601/api"
+  ]
+}

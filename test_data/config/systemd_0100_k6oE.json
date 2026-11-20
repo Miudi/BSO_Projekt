@@ -1,0 +1,65 @@
+{
+  "service": "nginx",
+  "version": "9.7.72",
+  "instance_id": "d1e995f3-d7bb-4837-bad1-5addc0ceb0c7",
+  "api_key": "t7fEpESxDAgCKkiU4LGnRSWpqSWjatZFpc5i1A9M",
+  "settings": {
+    "audit_scheduler_policy": 3375,
+    "kernel_token_token": "/var/lib/database/storage",
+    "database_audit_request": false,
+    "network_mount_mount": [
+      "/var/lib/response/gateway",
+      "251.246.95.74"
+    ],
+    "worker_daemon": [
+      "XFTfXrV0QFdJ",
+      false,
+      34236,
+      "/var/lib/certificate/retry"
+    ],
+    "restore_gateway_module": "/var/lib/retry/scheduler",
+    "system_certificate_update": [
+      "pHCLPt5AC2ZxQ7eXrHdgB",
+      "/var/lib/database/metric",
+      "eHN3o3",
+      "8.54.35.171",
+      11029,
+      "h8GP4ZRLDew"
+    ],
+    "timeout_system": {
+      "storage_scheduler_retry": {
+        "queue_queue": true,
+        "cluster": "130.93.145.62",
+        "retry": [
+          "/var/lib/kernel/mount",
+          "116.4.214.222",
+          false,
+          "/var/lib/policy/audit"
+        ]
+      },
+      "daemon_response_gateway": [
+        "74.178.238.96",
+        "170.109.3.107"
+      ],
+      "policy": {
+        "request_system": 79.631,
+        "storage": "62aN7A5FbSyWUw",
+        "retry_handler_daemon": false,
+        "network": "zVNAEmbSTcfvHRSxpMLa",
+        "queue_gateway": false,
+        "cache_kernel": "KB430JWwJKiLwmJD"
+      },
+      "service": "vrJyTWhzZsyB",
+      "storage_worker": [
+        true,
+        "80.238.162.119",
+        "33.7.81.124"
+      ]
+    }
+  },
+  "endpoints": [
+    "http://138.104.78.97:22809/api",
+    "http://47.164.195.224:33032/api",
+    "http://55.1.63.130:1617/api"
+  ]
+}

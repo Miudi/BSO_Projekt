@@ -1,0 +1,14 @@
+{
+  "service": "systemd",
+  "version": "5.17.61",
+  "instance_id": "92387186-b46c-4230-9c1f-ad102f2445c7",
+  "api_key": "2BLxtTZLYdqyHtL5JOul5bRetd6pSlBSffVoyfBo",
+  "settings": {
+    "timeout_module_kernel": "MacIKy35GEMqO9M94C",
+    "worker": "2ZxqxVJbYRxrRsjCV4NBnY",
+    "handler_session": false
+  },
+  "endpoints": [
+    "http://5.218.116.98:19992/api"
+  ]
+}

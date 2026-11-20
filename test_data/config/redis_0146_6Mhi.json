@@ -1,0 +1,85 @@
+{
+  "service": "nginx",
+  "version": "7.4.90",
+  "instance_id": "b281a2a7-d3bf-4e1b-ae03-6bbe6547adc4",
+  "api_key": "0PllwVN4vV7vjIns8TE2uGCH3LYpBWWw1yeXnqij",
+  "settings": {
+    "module": [
+      "219.38.226.95",
+      "39.22.150.134",
+      23.085,
+      "/var/lib/handler/gateway",
+      "/var/lib/network/database",
+      37.405
+    ],
+    "token_service_certificate": {
+      "session_update_queue": true,
+      "metric_policy": 49.715,
+      "daemon": {
+        "response": 55.725,
+        "response_update": "/var/lib/plugin/scheduler",
+        "alert_storage_response": "/var/lib/queue/database",
+        "session_alert": "/var/lib/volume/update",
+        "daemon_queue": [
+          36382,
+          9.9,
+          23730
+        ]
+      },
+      "restore": {
+        "service_kernel": "/var/lib/cache/service",
+        "gateway": 19838,
+        "service": "E7hLCGwWdPswAw9r4VEC",
+        "network_timeout": 84.295,
+        "mount_storage": 63.715,
+        "queue_certificate": "127.54.120.137",
+        "token_audit": 22735
+      },
+      "request_token": 98.347,
+      "response": {
+        "storage_kernel_gateway": "9bKJnJV1NKr",
+        "handler": 25812,
+        "kernel_storage_response": "147.89.72.109",
+        "retry": [
+          1697,
+          "24.246.219.254"
+        ],
+        "session_scheduler": true
+      },
+      "handler_timeout_alert": 34739
+    },
+    "daemon_service": {
+      "kernel_daemon_token": "/var/lib/response/system",
+      "policy": [
+        "/var/lib/daemon/service",
+        "192.111.233.118",
+        31377
+      ],
+      "plugin_certificate_audit": [
+        "/var/lib/gateway/network",
+        54862,
+        "208.96.188.198",
+        "36.140.214.45",
+        "149.52.223.82"
+      ],
+      "database_storage": {
+        "database_storage": "/var/lib/response/session",
+        "database_update": [
+          68.837,
+          "/var/lib/request/session",
+          36.304
+        ],
+        "policy": "V6kOUAa5u"
+      },
+      "backup_service": 65.453,
+      "retry_session_restore": 94.375
+    },
+    "session": "245.88.200.171"
+  },
+  "endpoints": [
+    "http://208.51.218.151:15451/api",
+    "http://228.120.116.92:39055/api",
+    "http://17.88.164.136:61307/api",
+    "http://146.144.196.3:12815/api"
+  ]
+}

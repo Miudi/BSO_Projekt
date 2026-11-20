@@ -1,0 +1,21 @@
+# Konfiguracja systemd - wygenerowana automatycznie
+name: systemd
+replicas: 1
+secret: GBIIkAKakzzJFMSv25LOSldv93kYvkke
+settings:
+  policy: 36185
+  database: 0L8NPT0hjnqDu8MpjOl5lmj7
+  metric_system_backup: 120.132.16.143
+  system_restore_request: 40278
+  retry: 7957
+  policy_session: /var/lib/mount/update
+  cluster_plugin_scheduler: 60899
+hosts:
+  - 62.173.60.147
+  - 129.254.149.92
+  - 50.204.169.122
+  - 98.132.184.192
+  - 108.113.21.104
+limits:
+  cpu: 6
+  memory: 256Mi

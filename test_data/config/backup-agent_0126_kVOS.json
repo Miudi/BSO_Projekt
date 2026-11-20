@@ -1,0 +1,15 @@
+{
+  "service": "payment-svc",
+  "version": "3.15.33",
+  "instance_id": "bcd018bd-5c10-4546-ba60-6bc6fa619ad5",
+  "api_key": "Xcp7XlEUs2Dqc6blSs6qNG3bqDw46e59son5wsoR",
+  "settings": {
+    "retry": "FxgCtC1SLl",
+    "storage": false,
+    "audit": "/var/lib/network/volume"
+  },
+  "endpoints": [
+    "http://131.174.5.50:4524/api",
+    "http://244.162.250.111:15692/api"
+  ]
+}

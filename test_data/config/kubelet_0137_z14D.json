@@ -1,0 +1,69 @@
+{
+  "service": "redis",
+  "version": "5.0.14",
+  "instance_id": "c5e9d6f8-f48e-41b7-8b95-62535ee82fcb",
+  "api_key": "Nlo1DhnXaeHdzTBy13wC8OwbLs71mvs7Emeo249w",
+  "settings": {
+    "service": "203.11.119.92",
+    "cluster": [
+      80.845,
+      8577,
+      "j95sRtEDG5mACWVof1X6L"
+    ],
+    "kernel": "AKw8V2yD69AQJAG",
+    "service_response": 41505,
+    "backup_queue": {
+      "queue": {
+        "daemon_update_daemon": "44.178.103.118",
+        "service": true,
+        "cache_module": [
+          28.859,
+          true,
+          90.071,
+          49.673,
+          "131.31.243.166",
+          "/var/lib/retry/policy"
+        ],
+        "alert": 29.773,
+        "scheduler": "NrJlXylLUwM",
+        "kernel": "/var/lib/update/alert",
+        "gateway_daemon_storage": "/var/lib/certificate/alert"
+      },
+      "network_service": false,
+      "update_cache": {
+        "cache_mount": 76.914,
+        "alert": 34.532,
+        "timeout": "euXJ8X8",
+        "kernel_plugin_alert": false,
+        "database_policy_response": true,
+        "cluster_response": 40927,
+        "session": 10807
+      },
+      "request_alert_metric": "vmhaKAgQ",
+      "audit_database": 46928,
+      "retry_alert": "icowMKB7clNgKokfj",
+      "queue_alert": [
+        10645,
+        false,
+        false,
+        34412,
+        "bUMDRjgTwZSDD",
+        "/var/lib/database/policy"
+      ],
+      "daemon_gateway": "KEXEGZYwtTd"
+    },
+    "backup_plugin_session": true,
+    "request_handler": [
+      "LgnJpq",
+      59.547,
+      false,
+      60.758
+    ],
+    "module_timeout_handler": 2.146
+  },
+  "endpoints": [
+    "http://123.54.131.42:40652/api",
+    "http://42.178.88.242:24802/api",
+    "http://64.73.123.254:43166/api"
+  ]
+}

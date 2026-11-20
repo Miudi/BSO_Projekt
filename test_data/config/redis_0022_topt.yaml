@@ -1,0 +1,17 @@
+# Konfiguracja payment-svc - wygenerowana automatycznie
+name: payment-svc
+replicas: 7
+secret: NSstdw9LeSFOyRCsk0Jhayz8QEVs8qD7
+settings:
+  database: eexzFJDkymQRCnDaganQCvR
+  response_metric_audit: LHxl1XSotylmd
+  gateway: C4SZHBpFyVnniZHOANGO
+  backup_kernel_response: URlxvZYIJKeqAix
+  token_plugin_response: 97.327
+  worker: true
+hosts:
+  - 62.93.103.193
+  - 115.153.58.249
+limits:
+  cpu: 2
+  memory: 512Mi

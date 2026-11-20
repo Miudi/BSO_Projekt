@@ -1,0 +1,15 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 8
+secret: A6EhihFfLrhYWve12WLYhBwpo7TtuvHU
+settings:
+  handler: false
+  plugin_scheduler_service: 62.48
+  kernel: UTh8TtbWHOzV
+  metric_token_backup: 82.13
+hosts:
+  - 20.132.108.119
+  - 42.16.119.3
+limits:
+  cpu: 14
+  memory: 512Mi

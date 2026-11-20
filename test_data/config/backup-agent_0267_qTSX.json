@@ -1,0 +1,55 @@
+{
+  "service": "systemd",
+  "version": "5.20.98",
+  "instance_id": "b9fb95cf-6407-4161-b14a-07c955db87a9",
+  "api_key": "LwyMlXB9GTQBzeV1EUu9hTKCAdGYv2Z4xpJgWIKz",
+  "settings": {
+    "audit_alert_certificate": 38.166,
+    "update_daemon_handler": 19.407,
+    "response_database_network": 30.418,
+    "timeout_request": "Ws9n9h",
+    "handler_session": {
+      "backup_volume": "OeZk19lrMqP9sIKXj",
+      "audit_kernel": [
+        true,
+        true,
+        62.176
+      ],
+      "module": {
+        "system_volume": 40803,
+        "network_queue": 13.768,
+        "retry_volume": [
+          "/var/lib/response/system",
+          "237.150.159.162"
+        ],
+        "kernel_update": "164.171.254.37",
+        "metric_volume": [
+          "/var/lib/storage/storage",
+          "/var/lib/gateway/alert",
+          30.539,
+          20600,
+          45961
+        ],
+        "policy": 23.227,
+        "restore": [
+          false,
+          72.798,
+          "haKqna0tr6Jw2vtE5Y",
+          17495,
+          true,
+          66.148
+        ]
+      },
+      "audit_policy": [
+        82.031,
+        "104.9.110.158"
+      ],
+      "restore": 22899
+    },
+    "storage_queue_daemon": false
+  },
+  "endpoints": [
+    "http://241.229.42.25:12804/api",
+    "http://174.79.5.81:57665/api"
+  ]
+}

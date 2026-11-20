@@ -1,0 +1,87 @@
+{
+  "service": "kubelet",
+  "version": "8.13.12",
+  "instance_id": "ceecdfc8-3a19-4e90-8523-80afb5638201",
+  "api_key": "5RwwyMnbHtV5k6sbxM2DisMVARtPUFrFNwVFbLs6",
+  "settings": {
+    "timeout_token_update": 46552,
+    "mount_certificate": {
+      "policy_worker": "/var/lib/queue/response",
+      "cluster_restore_gateway": [
+        41016,
+        false,
+        "/var/lib/update/database",
+        "I4dxPjVssDzlhc3SEItfUR96",
+        91.33
+      ],
+      "response_alert_scheduler": [
+        "/var/lib/plugin/scheduler",
+        false,
+        "CmtUttFIJ5F3KBt",
+        false,
+        true
+      ],
+      "restore": 735,
+      "session": {
+        "database_network": 88.667,
+        "plugin_kernel": true,
+        "cluster": "/var/lib/request/network",
+        "plugin_scheduler": true,
+        "storage_cache": [
+          "bhAJqA9Ke2GgZDTd7mF",
+          "/var/lib/backup/gateway",
+          "/var/lib/response/network",
+          "Q1yYLxn7",
+          false,
+          "/var/lib/system/volume"
+        ],
+        "cache": [
+          true,
+          "128.243.76.182",
+          "MVWoRJbdiWo0Vi",
+          91.365,
+          "wz3iTKzLNpzupHsYvl0nM23",
+          "/var/lib/daemon/metric"
+        ],
+        "system_network_scheduler": true
+      },
+      "certificate": {
+        "scheduler_cluster_scheduler": true,
+        "retry_network_alert": "23.139.66.191",
+        "storage_metric": "hjw7bfondxdzJWa",
+        "retry": "/var/lib/scheduler/update",
+        "policy": 71.204,
+        "plugin": false,
+        "worker_storage": [
+          0.727,
+          "/var/lib/module/backup"
+        ],
+        "token_daemon": "/var/lib/system/response"
+      }
+    },
+    "plugin": true,
+    "alert_backup_service": 37.026,
+    "certificate_cluster": {
+      "mount_service_kernel": [
+        32.226,
+        60.99,
+        "jOK4y3O1cVG8QnjoVFcMjDF",
+        "GUiZg6eHL4KUGnir",
+        "/var/lib/plugin/policy"
+      ],
+      "network": [
+        "174.9.144.75",
+        30.592,
+        27298,
+        false,
+        "DrmVc3TxdMYTGfRLx9qwLdK"
+      ],
+      "kernel_queue_module": "80.29.70.162"
+    },
+    "audit_handler_timeout": "210.18.48.183",
+    "metric": "135.29.199.192"
+  },
+  "endpoints": [
+    "http://251.198.158.24:17218/api"
+  ]
+}

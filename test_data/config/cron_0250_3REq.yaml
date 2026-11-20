@@ -1,0 +1,18 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 7
+secret: pExpWOmBxENvcnB9jb7d700haLIftjiy
+settings:
+  timeout_request: KboEZew2crcrOKi8DUx5O
+  cache_cluster_session: 236.139.4.173
+  restore: 58500
+  retry_timeout: 62170
+  system_service: 1452
+hosts:
+  - 54.226.167.208
+  - 62.203.167.199
+  - 24.253.70.5
+  - 209.158.194.157
+limits:
+  cpu: 2
+  memory: 256Mi

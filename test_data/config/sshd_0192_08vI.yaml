@@ -1,0 +1,21 @@
+# Konfiguracja auth-api - wygenerowana automatycznie
+name: auth-api
+replicas: 6
+secret: EV51HwUcKFjl6d7iNDny5Jd10xkACFX2
+settings:
+  queue: 207.22.19.198
+  handler_request_scheduler: bLxJkS7ksMmLIOgyX4
+  module: 94.13
+  request_handler_cluster: 66.563
+  update_request: 76.157
+  handler_cluster: /var/lib/storage/volume
+  network: /var/lib/kernel/queue
+hosts:
+  - 49.9.72.45
+  - 178.111.65.189
+  - 130.192.41.30
+  - 167.4.102.87
+  - 62.28.107.188
+limits:
+  cpu: 1
+  memory: 256Mi

@@ -1,0 +1,18 @@
+# Konfiguracja payment-svc - wygenerowana automatycznie
+name: payment-svc
+replicas: 4
+secret: 5x8R1Edxy3HYXgXYIlnPtDoIhTl7CpPg
+settings:
+  worker_service_update: 81.978
+  audit: VuH4ze5hHodI
+  worker_mount: p6qRtGvEe0cMH0
+  response_handler_token: 50830
+  certificate_volume: /var/lib/plugin/request
+hosts:
+  - 9.246.72.17
+  - 214.233.108.95
+  - 223.239.33.35
+  - 232.171.232.184
+limits:
+  cpu: 7
+  memory: 2048Mi

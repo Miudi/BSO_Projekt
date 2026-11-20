@@ -1,0 +1,57 @@
+{
+  "service": "auth-api",
+  "version": "1.9.39",
+  "instance_id": "647237e9-118f-471c-8e7f-0e5dd20d9544",
+  "api_key": "PnKPcHgv6C7exCaJlWMVvgUOguVCCmNcAifdSiRe",
+  "settings": {
+    "response_policy": [
+      true,
+      25408
+    ],
+    "restore_mount_response": "L3od89Wp06hBkPuOvNX",
+    "certificate_queue_network": 46.83,
+    "queue_module": true,
+    "kernel_response_network": {
+      "module_storage": "jB6cKK",
+      "module_backup_restore": "154.235.211.161",
+      "retry_policy_session": "157.207.111.129",
+      "alert_token_update": 19721
+    },
+    "gateway_cluster": true,
+    "cluster_mount": "/var/lib/daemon/volume",
+    "policy_kernel": {
+      "cache": 64840,
+      "request_session": {
+        "mount_request": "/var/lib/scheduler/volume",
+        "certificate_scheduler": 94.036,
+        "volume_storage_database": [
+          48.797,
+          24460,
+          11693,
+          45141,
+          "kRjLPYL49UH9If0NrjrBE",
+          true
+        ],
+        "gateway_request_cache": [
+          "35.10.132.47",
+          "11.230.113.110"
+        ],
+        "response_kernel": 24143,
+        "network": [
+          20714,
+          55899,
+          47250,
+          85.674,
+          51338
+        ],
+        "daemon_certificate": 82.87,
+        "policy": 1347
+      },
+      "cache_request": 15.423
+    }
+  },
+  "endpoints": [
+    "http://70.196.224.189:17246/api",
+    "http://129.34.79.165:47583/api"
+  ]
+}

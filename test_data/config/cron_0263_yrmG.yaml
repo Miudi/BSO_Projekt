@@ -1,0 +1,15 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 5
+secret: qT6xD4dkceO7zSvToqOeBWunXEwJc4AX
+settings:
+  queue_service: 187.90.212.86
+  certificate: false
+  response_token_session: JIqTXrYr2tdmzuO1xoQF
+  system_backup_restore: EOYUY6hNCqKs1xtYDcndZ6qW
+hosts:
+  - 57.249.235.179
+  - 67.213.170.69
+limits:
+  cpu: 11
+  memory: 1024Mi

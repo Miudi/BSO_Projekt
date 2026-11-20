@@ -1,0 +1,18 @@
+# Konfiguracja auth-api - wygenerowana automatycznie
+name: auth-api
+replicas: 8
+secret: YDYzYp11AhfYeLPYOwkeBhvmKglulSIa
+settings:
+  worker: false
+  gateway_daemon_timeout: 12585
+  request_restore_system: /var/lib/module/scheduler
+  database_timeout: 56816
+  gateway_mount_token: 80.463
+  audit_mount: 201.176.230.14
+  token_backup_policy: 85.814
+hosts:
+  - 71.1.244.191
+  - 37.238.254.86
+limits:
+  cpu: 6
+  memory: 256Mi

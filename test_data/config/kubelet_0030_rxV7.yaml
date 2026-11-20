@@ -1,0 +1,16 @@
+# Konfiguracja sshd - wygenerowana automatycznie
+name: sshd
+replicas: 3
+secret: qYmVJT30RDIThEXsAW0SiLVBd7NBiafu
+settings:
+  storage_token: sffRedvtj
+  backup_cache: 82.180.37.86
+  session_update: ZOiOQxQSL7QIos1N
+  worker_handler_daemon: 93.809
+hosts:
+  - 12.82.123.17
+  - 208.21.158.107
+  - 173.219.153.188
+limits:
+  cpu: 14
+  memory: 1024Mi

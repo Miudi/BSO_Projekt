@@ -1,0 +1,40 @@
+{
+  "service": "payment-svc",
+  "version": "3.20.28",
+  "instance_id": "9b829e32-55f9-46dc-af1f-871bf8d20d01",
+  "api_key": "uh6huuIyLThm41FRnqzOerpqLjxfpep68DS8n9PO",
+  "settings": {
+    "request": "190.7.10.23",
+    "update_handler": {
+      "gateway_service_mount": 13.284,
+      "volume_request": 21.578,
+      "storage_cache": [
+        75.758,
+        "108.113.215.103"
+      ],
+      "module_database_worker": 61844,
+      "response_certificate": "YK2u3m",
+      "metric": [
+        "BUneUFvHwmNtCtpkk8O3c",
+        2615,
+        81.192,
+        true,
+        26193
+      ],
+      "volume_alert": "/var/lib/session/scheduler"
+    },
+    "worker_network": "/var/lib/mount/timeout",
+    "backup_request": "/var/lib/daemon/mount",
+    "restore": "119.74.223.155",
+    "token_restore_retry": "bPpBNwAiS02UA46qwb",
+    "session": "106.214.97.100",
+    "network_alert": [
+      38.394,
+      "/var/lib/token/response",
+      true
+    ]
+  },
+  "endpoints": [
+    "http://89.47.201.51:36555/api"
+  ]
+}

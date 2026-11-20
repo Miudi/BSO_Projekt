@@ -1,0 +1,20 @@
+# Konfiguracja cron - wygenerowana automatycznie
+name: cron
+replicas: 1
+secret: i4VeOf0Dob7baaj7SuDL4P0AGkmGsA9z
+settings:
+  storage_plugin: 42022
+  module_certificate: /var/lib/daemon/module
+  handler_network: Ijsp0s5HucOxDk
+  queue: 6kCYop8
+  restore_metric_scheduler: 63.647
+  response: false
+  cluster_daemon: 18.163.100.14
+hosts:
+  - 46.33.62.217
+  - 96.232.75.61
+  - 144.12.57.98
+  - 241.173.8.136
+limits:
+  cpu: 16
+  memory: 1024Mi

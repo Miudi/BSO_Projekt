@@ -1,0 +1,19 @@
+# Konfiguracja backup-agent - wygenerowana automatycznie
+name: backup-agent
+replicas: 6
+secret: vQatURT3uZqHc5v0kHheBYAbffT5x0RR
+settings:
+  request_certificate_retry: true
+  timeout_plugin: E7t6Kot
+  retry_update: 2.366
+  module_policy: 53128
+  certificate_gateway_token: 4.73.144.175
+  kernel: vfFUh0
+  service_metric_network: 58.031
+hosts:
+  - 145.96.110.241
+  - 161.183.142.108
+  - 3.139.137.163
+limits:
+  cpu: 5
+  memory: 256Mi

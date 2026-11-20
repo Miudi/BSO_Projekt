@@ -1,0 +1,73 @@
+{
+  "service": "kubelet",
+  "version": "3.19.17",
+  "instance_id": "68ffc937-6cd4-4258-a274-0cb355b6c397",
+  "api_key": "rKC7mFPKIKlE6Lgqdf6BQbgsHsSouGf3Pjn9xJYv",
+  "settings": {
+    "handler": false,
+    "queue_session": [
+      "/var/lib/policy/cache",
+      "/var/lib/gateway/alert"
+    ],
+    "storage": false,
+    "cluster_module": 54552,
+    "policy_cluster": "145.183.227.6",
+    "certificate": 36.345,
+    "certificate_network_service": {
+      "metric": "/var/lib/certificate/database",
+      "kernel": {
+        "session_module": "/var/lib/gateway/daemon",
+        "module_volume_module": "33.218.151.39",
+        "request": 35236,
+        "token_timeout": "/var/lib/storage/metric",
+        "restore_kernel": "rLwDGctwvYolmuR2",
+        "restore": [
+          "/var/lib/storage/certificate",
+          "ZdmTKOHXEpjmlEnT",
+          "/var/lib/scheduler/daemon"
+        ],
+        "mount": 71.124,
+        "timeout_mount": "f9oIoStXnHmul"
+      },
+      "plugin": 97.779,
+      "network_metric": {
+        "scheduler_system_backup": 77.329,
+        "token": "239.154.140.54",
+        "audit": "/var/lib/metric/alert",
+        "mount_storage_database": [
+          "/var/lib/cluster/metric",
+          "LgXWLuztRN9MsIeD8iQpIdYT",
+          "/var/lib/cache/policy",
+          "13.94.135.122",
+          49948
+        ],
+        "database": [
+          "RcIaWtxBzv2G",
+          "49.220.254.107",
+          "aVSwv16tzSBJ",
+          true,
+          63.152
+        ]
+      },
+      "storage": [
+        49022,
+        true,
+        "/var/lib/handler/daemon",
+        false
+      ]
+    },
+    "gateway_metric": {
+      "alert": "/var/lib/certificate/request",
+      "module": "ylR2TLEPzhWxINbxt",
+      "gateway_module": 39943,
+      "database_policy_response": 56879,
+      "worker_daemon_response": 52825,
+      "metric_session": 31764
+    }
+  },
+  "endpoints": [
+    "http://240.254.160.170:40123/api",
+    "http://21.159.137.73:51642/api",
+    "http://144.241.177.93:36135/api"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "service": "nginx",
+  "version": "1.12.9",
+  "instance_id": "26c48a41-2663-491e-bdf1-c6af1ac5dfc0",
+  "api_key": "aysrwbwqZWWWplPg3WFBgAVYHwkdcuIwdNIOc6nQ",
+  "settings": {
+    "policy_response": "uNftsQIEZeYYMCuAhNb",
+    "policy_restore_request": {
+      "system_database": 95.576,
+      "service_cluster": {
+        "restore_response": 6.671,
+        "cluster_backup_session": "68.179.55.215",
+        "mount_response_alert": [
+          "/var/lib/worker/retry",
+          "/var/lib/plugin/mount",
+          "scil3FYutS47aOUbuxMP",
+          true
+        ],
+        "network_database_plugin": "/var/lib/session/service",
+        "module": [
+          7244,
+          "/var/lib/gateway/request"
+        ],
+        "daemon": 95.919,
+        "restore": [
+          32.193,
+          1178,
+          40.581,
+          59293
+        ],
+        "service_cluster_policy": "HejNQS31ondx0p0zYfoBXmz"
+      },
+      "module": "/var/lib/policy/request",
+      "kernel_storage_database": {
+        "service": "157.178.160.19",
+        "mount_policy": 11.303,
+        "gateway": "/var/lib/storage/system",
+        "token": "/var/lib/cluster/cache",
+        "gateway_service": [
+          60773,
+          56559,
+          "208.192.179.123",
+          12.084,
+          "v59S50dSuHigxclMCKH",
+          "/var/lib/scheduler/scheduler"
+        ]
+      }
+    },
+    "storage_metric": false,
+    "mount": 25872,
+    "network_service": "/var/lib/restore/system",
+    "daemon": [
+      "116.48.52.234",
+      "14.46.181.24",
+      true
+    ]
+  },
+  "endpoints": [
+    "http://238.95.231.152:37422/api",
+    "http://123.26.199.39:47909/api",
+    "http://11.232.118.207:42979/api",
+    "http://155.220.3.248:3944/api"
+  ]
+}

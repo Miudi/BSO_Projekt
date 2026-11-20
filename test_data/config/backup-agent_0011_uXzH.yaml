@@ -1,0 +1,19 @@
+# Konfiguracja systemd - wygenerowana automatycznie
+name: systemd
+replicas: 6
+secret: fOF2QF6dcl5BDPrhMxvBr6YR6d5n2Xbm
+settings:
+  kernel_audit: 114.126.84.143
+  daemon: false
+  mount_storage_policy: 80.48.27.29
+  certificate_storage: 126.114.254.225
+  audit: 55243
+  mount_plugin_certificate: 223.72.178.201
+  mount: true
+  mount_storage: iSpBS7n7PKUm
+hosts:
+  - 158.225.240.102
+  - 147.190.47.5
+limits:
+  cpu: 14
+  memory: 2048Mi

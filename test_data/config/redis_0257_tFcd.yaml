@@ -1,0 +1,22 @@
+# Konfiguracja auth-api - wygenerowana automatycznie
+name: auth-api
+replicas: 1
+secret: A4wVLehVDXQP5HJJoECrRWcSjPsNmnav
+settings:
+  metric_policy_audit: 50.785
+  metric: 79.65
+  token: 7Ncpy6AM
+  plugin_session_kernel: APcFSj6FwpoL6x
+  worker_service_response: 57159
+  mount_database_system: /var/lib/cluster/daemon
+  session_backup: 36360
+  module_volume_daemon: 4676
+hosts:
+  - 114.187.122.189
+  - 112.213.249.97
+  - 112.77.126.147
+  - 226.222.76.111
+  - 91.144.4.125
+limits:
+  cpu: 4
+  memory: 512Mi

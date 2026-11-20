@@ -1,0 +1,21 @@
+# Konfiguracja payment-svc - wygenerowana automatycznie
+name: payment-svc
+replicas: 2
+secret: wuDYcZ7GRVb0mEnDmyJhulxGQYtNlyVz
+settings:
+  audit_token: 163.253.115.167
+  network_cluster: /var/lib/update/service
+  handler_network_policy: 145.143.244.247
+  request_audit_retry: true
+  timeout_response_queue: 96.834
+  daemon_database_certificate: BiVVOOAT2TFY3VnoZL9
+  worker_backup: true
+  mount_retry_update: BESf1fUuWb6rs0TLt
+  kernel_backup_metric: /var/lib/token/request
+  queue: 134.154.30.68
+hosts:
+  - 236.64.137.116
+  - 243.253.131.17
+limits:
+  cpu: 5
+  memory: 2048Mi

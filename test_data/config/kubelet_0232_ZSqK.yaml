@@ -1,0 +1,20 @@
+# Konfiguracja auth-api - wygenerowana automatycznie
+name: auth-api
+replicas: 2
+secret: fmnjhglLMycYiLqGvyX4GDc8laonILJA
+settings:
+  volume_cluster_response: 52.144
+  response_network_database: 20150
+  session_session_system: YSGESx
+  restore: true
+  daemon_request_restore: 27.16.32.246
+  module_retry_system: 44763
+  gateway_service: 208.253.36.190
+  network: PgW7YFAb
+hosts:
+  - 90.160.15.128
+  - 248.75.110.9
+  - 39.76.98.244
+limits:
+  cpu: 4
+  memory: 512Mi

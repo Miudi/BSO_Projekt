@@ -1,0 +1,22 @@
+# Konfiguracja auth-api - wygenerowana automatycznie
+name: auth-api
+replicas: 2
+secret: TxKfBZd01HFvRUEcTVxW1ngiHqbamm1Y
+settings:
+  cache: UCVZSn6Mypy0K
+  daemon_system: 38.86.47.66
+  module: /var/lib/session/database
+  queue_worker_metric: 165.235.71.217
+  update_storage_kernel: 125.144.162.163
+  certificate_audit_cluster: 96.244
+  scheduler: /var/lib/storage/timeout
+  queue_network_retry: true
+  certificate_response: true
+  module_storage: /var/lib/system/alert
+hosts:
+  - 51.47.120.237
+  - 44.236.239.168
+  - 121.19.172.90
+limits:
+  cpu: 13
+  memory: 256Mi

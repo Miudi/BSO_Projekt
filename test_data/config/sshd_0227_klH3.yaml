@@ -1,0 +1,18 @@
+# Konfiguracja systemd - wygenerowana automatycznie
+name: systemd
+replicas: 2
+secret: oDqJ2GWmt1okDKvffBPqhaZSdeTjG3pN
+settings:
+  plugin_timeout_network: 22.143.128.77
+  kernel_timeout_network: /var/lib/volume/session
+  system: false
+  scheduler_policy: false
+  alert_system_backup: 106.143.148.232
+hosts:
+  - 40.45.206.147
+  - 66.39.192.128
+  - 110.108.86.105
+  - 36.10.239.212
+limits:
+  cpu: 15
+  memory: 2048Mi

@@ -1,0 +1,107 @@
+{
+  "service": "kubelet",
+  "version": "2.13.62",
+  "instance_id": "f772da34-e2b0-4a1c-ad17-04dcce958350",
+  "api_key": "x30pMKmiFeJSZZ78v6zuc8anbhBj4yqF8CKLGm6R",
+  "settings": {
+    "restore": false,
+    "certificate": {
+      "network_cache_update": {
+        "certificate_service": 69.458,
+        "mount": 5.523,
+        "network_cluster_plugin": [
+          "EwiVNJKvFVtGAkLaX6",
+          11871,
+          25348
+        ],
+        "cache_storage_certificate": 86.486,
+        "database_storage_session": 11424
+      },
+      "audit_alert_network": false,
+      "timeout": "/var/lib/system/update",
+      "scheduler_policy_handler": "1.223.43.48",
+      "plugin_queue": 8015,
+      "cache_mount": 32.847
+    },
+    "retry_queue": {
+      "audit": {
+        "audit_update_network": "sSMpHjtR8uDJZvgjCdL",
+        "certificate_volume_database": 4315,
+        "kernel_volume": "wywYGEchakUWKUELFvC8"
+      },
+      "retry_scheduler_network": 37077,
+      "metric": 2592,
+      "request_restore": [
+        58824,
+        "87.180.42.212"
+      ],
+      "cluster": {
+        "restore_network": [
+          true,
+          true,
+          "4DcM2c18Bl8XTI2YX",
+          "/var/lib/restore/token"
+        ],
+        "scheduler_token_backup": 12187,
+        "backup_mount": 10.899,
+        "alert_system_plugin": [
+          "/var/lib/network/system",
+          25697,
+          "/var/lib/mount/policy",
+          "/var/lib/metric/plugin",
+          true,
+          15409
+        ],
+        "module_gateway": "ryJhFUl2",
+        "alert": "235.160.1.32"
+      },
+      "scheduler_metric_restore": 34.513,
+      "handler_system_policy": {
+        "session": "/var/lib/timeout/system",
+        "metric_kernel_kernel": "IDSsTyn",
+        "retry_response": true,
+        "session_retry_audit": true
+      }
+    },
+    "scheduler_backup": "GqQKExnwU5wn",
+    "scheduler_token": "174.127.236.211",
+    "backup": {
+      "module": 31110,
+      "gateway_response": {
+        "alert_plugin": [
+          "ESNQqvtKYUjXEcktkyC3",
+          20051
+        ],
+        "update_gateway_certificate": [
+          "36.31.156.22",
+          24.462,
+          "/var/lib/metric/timeout"
+        ],
+        "response_metric": [
+          "228.54.20.105",
+          "/var/lib/backup/plugin",
+          "51.173.220.232"
+        ],
+        "handler": 2.264,
+        "system": 52479,
+        "mount_retry_metric": 9.535,
+        "worker_module": "/var/lib/kernel/cluster",
+        "network_worker": 38960
+      },
+      "module_network_storage": {
+        "audit_request_timeout": 30.128,
+        "queue_kernel_certificate": true,
+        "system_mount": 88.855,
+        "kernel_retry_network": "218.65.37.199",
+        "timeout_timeout": true,
+        "alert_request_kernel": 13.273,
+        "timeout_session_restore": "/var/lib/plugin/gateway"
+      }
+    },
+    "retry": 20190
+  },
+  "endpoints": [
+    "http://235.203.18.45:9409/api",
+    "http://217.222.68.79:55866/api"
+  ]
+}

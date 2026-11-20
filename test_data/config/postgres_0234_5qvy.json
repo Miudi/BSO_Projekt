@@ -1,0 +1,66 @@
+{
+  "service": "postgres",
+  "version": "5.9.52",
+  "instance_id": "cdc6229b-a647-495a-97c8-d231e9767d25",
+  "api_key": "ajgELebPrKkfrILqnQDDkLvn9LfjZmSUfXD6SQMC",
+  "settings": {
+    "daemon_system_cluster": [
+      "239.74.8.206",
+      "/var/lib/kernel/kernel",
+      false,
+      "/var/lib/daemon/metric"
+    ],
+    "handler_update": "/var/lib/audit/policy",
+    "certificate_timeout_response": {
+      "storage_module": false,
+      "request": false,
+      "token_service_cluster": "BTPOY4FlocjBeufMAJ"
+    },
+    "kernel_audit_request": 26.724,
+    "restore_cache_policy": [
+      true,
+      17564,
+      96.322,
+      false
+    ],
+    "cluster": {
+      "service_certificate": {
+        "plugin_service_volume": "HiVjleM1V0nLjHVzHgQPZb",
+        "cluster_alert": "peOvkkO7p2lNaLqUKO",
+        "kernel_gateway": [
+          "/var/lib/module/update",
+          "4PogVKgbF1NzbohLa",
+          "P9uH8YCN3",
+          "I0n55V2SLDyL",
+          "/var/lib/certificate/storage",
+          70.769
+        ]
+      },
+      "token_storage": 38661,
+      "backup_restore_module": "107.52.87.16",
+      "audit_scheduler": "76.183.197.61",
+      "certificate_worker_handler": {
+        "token_plugin": "2YOYdiCqFYlnowQh3in9vA",
+        "handler_retry_database": [
+          42691,
+          "/var/lib/worker/service"
+        ],
+        "token_storage_scheduler": "exCfyjPj2"
+      },
+      "metric_policy": {
+        "cache_update_token": "J3MC7Ol6x",
+        "retry_service": [
+          true,
+          "248.15.34.232",
+          88.282
+        ],
+        "storage_daemon": true
+      },
+      "policy": "HstmXSGGYS2"
+    },
+    "policy_handler": true
+  },
+  "endpoints": [
+    "http://15.55.230.42:31028/api"
+  ]
+}

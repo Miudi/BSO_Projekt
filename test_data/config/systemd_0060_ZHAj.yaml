@@ -1,0 +1,24 @@
+# Konfiguracja cron - wygenerowana automatycznie
+name: cron
+replicas: 1
+secret: nq0SVkuL6eOIL3uZ1cEZKgCqfM05ugTt
+settings:
+  database_cache_kernel: 47.122
+  certificate: 97.139.160.23
+  module_plugin: false
+  daemon_policy: false
+  metric_worker: v9WMlIolar5p0i2N
+  queue_alert: 35.962
+  network: 2841
+  audit_storage: true
+  kernel_gateway: 14033
+  request: 40.116.129.70
+hosts:
+  - 30.154.77.251
+  - 172.2.248.247
+  - 225.164.227.134
+  - 219.160.48.101
+  - 56.71.101.25
+limits:
+  cpu: 10
+  memory: 256Mi

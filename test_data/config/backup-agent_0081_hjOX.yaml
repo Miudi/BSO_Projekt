@@ -1,0 +1,19 @@
+# Konfiguracja postgres - wygenerowana automatycznie
+name: postgres
+replicas: 1
+secret: fScIpSzQ5dG3zOsIsnJHaRkBpRI3er8N
+settings:
+  timeout_audit_request: /var/lib/module/mount
+  audit: 106.101.183.101
+  gateway: /var/lib/storage/volume
+  database_restore_timeout: 43.342
+  metric_metric_policy: 18.81.43.51
+  audit_alert: true
+  module_service: 2uSnx39KTw0gdAlb7
+  cache_cluster_cluster: 62hf7JB
+hosts:
+  - 159.116.52.182
+  - 93.185.42.182
+limits:
+  cpu: 5
+  memory: 512Mi

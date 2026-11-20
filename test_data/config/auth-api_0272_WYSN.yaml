@@ -1,0 +1,24 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 6
+secret: DPf05egN30yWjdbO6pXorEHAmOk2O8cn
+settings:
+  session_worker: true
+  gateway_request_gateway: 1383
+  worker_database: /var/lib/volume/kernel
+  metric_network_token: 88.919
+  alert: 19662
+  network_handler_queue: 15285
+  mount_session: false
+  kernel: 17.91.72.7
+  audit_scheduler_plugin: 221.109.176.130
+  certificate_scheduler: false
+hosts:
+  - 150.114.245.192
+  - 74.197.160.27
+  - 53.50.186.24
+  - 47.48.241.62
+  - 91.49.185.181
+limits:
+  cpu: 2
+  memory: 2048Mi

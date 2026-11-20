@@ -1,0 +1,84 @@
+{
+  "service": "postgres",
+  "version": "8.11.96",
+  "instance_id": "de47900a-aae0-4db0-9a2f-4e8a8623f555",
+  "api_key": "8xKfD8SGnjYONeMI8n53K7Ml5k3BNH7FJZZtRPa6",
+  "settings": {
+    "certificate_database_volume": 94.359,
+    "certificate_worker": {
+      "update": {
+        "session_scheduler": [
+          "LCQRNGTg0X",
+          "r5Zv86Rp6xKp",
+          false,
+          54624,
+          "149.157.99.57",
+          61.017
+        ],
+        "alert_audit_cluster": 19268,
+        "volume_request_response": 96.78,
+        "certificate": [
+          95.818,
+          "/var/lib/plugin/database",
+          false,
+          "/var/lib/storage/worker"
+        ],
+        "response_certificate_worker": 10198,
+        "module_cluster": 18905
+      },
+      "plugin": 36.948,
+      "request": {
+        "handler_audit": true,
+        "system": [
+          "57.172.79.82",
+          "NAUMZ1kgziaUhF",
+          29481,
+          "/var/lib/mount/kernel"
+        ],
+        "volume": true,
+        "worker_service": "niD6Hb",
+        "request": [
+          true,
+          96.634,
+          18.919,
+          40.773,
+          true,
+          true
+        ]
+      },
+      "retry_kernel_system": 88.146,
+      "request_gateway": {
+        "scheduler_token": 95.196,
+        "kernel_backup_session": false,
+        "alert_scheduler_cluster": 46.803,
+        "alert_alert": "2D8KOFJXmxYa",
+        "policy": [
+          36.714,
+          "/var/lib/cluster/certificate",
+          "/var/lib/mount/service",
+          73.105,
+          90.925
+        ],
+        "gateway_token": 18037
+      },
+      "volume": {
+        "update_retry_storage": [
+          false,
+          "/var/lib/network/token",
+          40808,
+          "/var/lib/session/module",
+          "169.170.136.66",
+          false
+        ],
+        "alert_session": false,
+        "storage_alert_timeout": 36372
+      }
+    },
+    "handler_scheduler": "IWusoBXkAoWEeFVZvKvTjc",
+    "audit": "oMgzU9"
+  },
+  "endpoints": [
+    "http://166.30.67.202:54510/api",
+    "http://112.119.148.64:23759/api"
+  ]
+}

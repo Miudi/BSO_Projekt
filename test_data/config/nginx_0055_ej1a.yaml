@@ -1,0 +1,23 @@
+# Konfiguracja redis - wygenerowana automatycznie
+name: redis
+replicas: 8
+secret: 24DwWbSatkxfoDLOtm4q1W3BjvJuDVUM
+settings:
+  audit_handler_policy: 63894
+  metric_network_service: /var/lib/queue/metric
+  queue: RmbQJFY4H934OAg06pFLPEJ6
+  timeout_update_retry: 3965
+  update: 58317
+  response_policy: false
+  daemon_audit_gateway: 35.364
+  daemon_queue: 91.607
+  worker: 49.958
+hosts:
+  - 110.222.85.234
+  - 165.60.136.252
+  - 182.100.147.34
+  - 216.240.10.45
+  - 158.20.67.184
+limits:
+  cpu: 1
+  memory: 2048Mi

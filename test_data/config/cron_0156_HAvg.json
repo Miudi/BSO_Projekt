@@ -1,0 +1,37 @@
+{
+  "service": "cron",
+  "version": "9.8.7",
+  "instance_id": "0f8e4906-e269-4df6-b10e-8fec107781d3",
+  "api_key": "0nWxaMlNJqTB2yhLmsmOsCVY2iCk0iF8SmFERAV9",
+  "settings": {
+    "token_plugin_storage": {
+      "metric_audit_kernel": [
+        "3KjMhTurOiQ8ifRdsY",
+        "230.229.141.150"
+      ],
+      "handler_gateway_session": {
+        "kernel": "/var/lib/worker/scheduler",
+        "service_handler_service": [
+          "59.103.97.79",
+          "239.253.58.163",
+          "180.26.110.210"
+        ],
+        "volume_worker": "/var/lib/retry/policy",
+        "volume": 37819,
+        "mount_update_system": "66OsFfDx1VzSVPMkN",
+        "restore_mount_alert": "t9eW4pUEapRURyf38xNB",
+        "response_metric_session": true
+      },
+      "response_response": "f7gOfw",
+      "queue": "223.85.14.71"
+    },
+    "metric_worker": 851,
+    "worker_metric": "Rkm9H7AJRA748tz3WJw3VR9u",
+    "handler_retry": "/var/lib/handler/cluster",
+    "daemon_scheduler": 1.012
+  },
+  "endpoints": [
+    "http://143.149.125.201:27145/api",
+    "http://69.107.205.65:7103/api"
+  ]
+}

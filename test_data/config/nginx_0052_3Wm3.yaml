@@ -1,0 +1,18 @@
+# Konfiguracja systemd - wygenerowana automatycznie
+name: systemd
+replicas: 6
+secret: rtYySDKogWRXcNj0ZY476iYE0c5QXBQw
+settings:
+  retry_queue: 151.226.54.249
+  policy_module: /var/lib/database/restore
+  restore_alert: dyIhuj1ujnONUh0oumwF
+  metric_system: 39.37.229.173
+  network_queue: SgfHpPi
+  cluster_backup: 18179
+  storage_worker_scheduler: /var/lib/backup/metric
+hosts:
+  - 86.109.179.147
+  - 196.151.116.144
+limits:
+  cpu: 2
+  memory: 256Mi

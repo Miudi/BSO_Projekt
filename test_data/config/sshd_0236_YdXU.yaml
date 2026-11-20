@@ -1,0 +1,21 @@
+# Konfiguracja payment-svc - wygenerowana automatycznie
+name: payment-svc
+replicas: 6
+secret: ZZEdwBuyWu0JKsMY96z1DWa8rALUzbnv
+settings:
+  handler: 8.514
+  worker_mount: aUveuvZ
+  kernel_mount_worker: false
+  mount_storage_module: 28787
+  storage_cache: true
+  handler: 195.135.113.92
+  update_policy: /var/lib/retry/alert
+  response_retry: 173.92.253.8
+  audit_restore: 91.166
+hosts:
+  - 91.170.186.85
+  - 248.186.162.93
+  - 118.75.165.58
+limits:
+  cpu: 1
+  memory: 512Mi

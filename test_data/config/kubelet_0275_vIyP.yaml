@@ -1,0 +1,16 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 8
+secret: nyX5tdYnoVPn08XNAg0fQFB5WrrBKx2t
+settings:
+  service_token_retry: false
+  gateway_audit_scheduler: /var/lib/request/database
+  metric: 6rw0kFbYY7YSHxKJ9A
+  metric_update_alert: true
+hosts:
+  - 160.154.157.6
+  - 85.243.116.246
+  - 43.59.114.183
+limits:
+  cpu: 10
+  memory: 1024Mi

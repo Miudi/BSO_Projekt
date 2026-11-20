@@ -1,0 +1,18 @@
+# Konfiguracja backup-agent - wygenerowana automatycznie
+name: backup-agent
+replicas: 4
+secret: XKyrW7JColOgF4U3j9jiHvndWdysCtwF
+settings:
+  service: 70.489
+  plugin_alert_daemon: 245.144.94.119
+  update_retry_kernel: 74.2.25.137
+  gateway_token_retry: false
+hosts:
+  - 44.251.61.79
+  - 236.211.224.19
+  - 250.224.46.127
+  - 197.83.128.185
+  - 58.134.203.21
+limits:
+  cpu: 13
+  memory: 2048Mi

@@ -1,0 +1,91 @@
+{
+  "service": "auth-api",
+  "version": "1.15.79",
+  "instance_id": "9431b7d1-1b55-4eae-adbb-9322abc882b0",
+  "api_key": "crFcFVuFG5S4KAUp23620FJ8OiBRTALKU7pu59Kn",
+  "settings": {
+    "cluster_kernel_plugin": [
+      "123.28.170.1",
+      39343,
+      55503,
+      false,
+      "eBd2Y49wIvVZWSFQQjfvV"
+    ],
+    "backup": "53.73.75.82",
+    "database": false,
+    "plugin_handler_request": "/var/lib/mount/module",
+    "retry": {
+      "metric_module": [
+        18461,
+        true,
+        false,
+        56612,
+        false
+      ],
+      "daemon": {
+        "audit_backup_module": true,
+        "audit_scheduler": [
+          39.614,
+          57.064,
+          60382
+        ],
+        "metric_volume": 45646,
+        "plugin": "LO627R",
+        "policy_request": "gxF6v9zZrc",
+        "database_network_cache": 32.769
+      },
+      "gateway_daemon": [
+        66.634,
+        "ksEAqZmJCmaNO7Bi5"
+      ],
+      "mount": 17746,
+      "timeout_handler": 21.767,
+      "service_volume_plugin": {
+        "queue_audit_mount": "/var/lib/restore/update",
+        "cache_storage": 9.245,
+        "plugin_storage_system": "109.13.216.232",
+        "kernel_timeout_backup": 24636
+      }
+    },
+    "update_system_request": false,
+    "gateway": "95.102.200.244",
+    "token_restore": {
+      "session_request": 12.378,
+      "handler_module": "/var/lib/plugin/database",
+      "audit_policy": {
+        "queue": 27.882,
+        "gateway_retry_audit": 61598,
+        "policy_alert_session": [
+          2.068,
+          "73.122.82.241",
+          30.41,
+          85.058,
+          "/var/lib/network/policy"
+        ],
+        "mount_handler_response": [
+          "234.39.214.63",
+          "/var/lib/queue/service"
+        ],
+        "response": "/var/lib/response/retry",
+        "cluster": "tF5zYo4ndGZtOLwB"
+      },
+      "session_worker": {
+        "certificate": [
+          "95J0eJq",
+          false,
+          "188.238.205.248"
+        ],
+        "system_gateway_certificate": 93.582,
+        "handler_request": "177.242.163.130",
+        "kernel_session_worker": "50.132.137.40",
+        "retry": 21.568,
+        "service_handler_service": "/var/lib/module/handler"
+      }
+    }
+  },
+  "endpoints": [
+    "http://64.156.229.88:32614/api",
+    "http://213.113.17.69:54637/api",
+    "http://5.12.223.112:26203/api"
+  ]
+}

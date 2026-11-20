@@ -1,0 +1,20 @@
+# Konfiguracja postgres - wygenerowana automatycznie
+name: postgres
+replicas: 3
+secret: Wx1jcojZzvb9W6iPFxvLrgrsqhyzM3sF
+settings:
+  retry: false
+  session: 4JrajlJr3SDrHWORbK
+  backup: 73.65
+  database: 96.134
+  session_storage: 75.110.162.155
+  token_system: /var/lib/metric/gateway
+hosts:
+  - 66.226.141.220
+  - 62.76.189.179
+  - 122.221.236.85
+  - 139.220.117.214
+  - 125.25.222.25
+limits:
+  cpu: 16
+  memory: 512Mi

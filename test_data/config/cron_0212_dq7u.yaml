@@ -1,0 +1,20 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 5
+secret: Pn7S3odG0qgjX0jbOJlGIhgCdvcjNglu
+settings:
+  backup: 6o8221NntEdl4NBEy
+  token_policy: 1.53
+  policy_policy: 52.727
+  mount_module: 29.197.217.196
+  request_session_queue: EYjdCMDjnaGfL4
+  system_cluster: DNMYLgiDJur36is5z
+hosts:
+  - 241.82.10.237
+  - 227.127.179.202
+  - 162.180.78.88
+  - 237.126.253.178
+  - 210.51.155.62
+limits:
+  cpu: 6
+  memory: 512Mi

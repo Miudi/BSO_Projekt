@@ -1,0 +1,21 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 3
+secret: 1qy1k7eqEoTV0XaojxmnpFGhxM0p0vKC
+settings:
+  policy_plugin: 2296
+  plugin: 8751
+  cache_policy: /var/lib/database/gateway
+  retry_cache: /var/lib/response/handler
+  plugin_network: B3APlcHVrRKuAy3Bbky
+  certificate_retry: /var/lib/update/request
+  service_cache: true
+  metric_certificate: 65.011
+hosts:
+  - 81.31.214.99
+  - 221.40.242.43
+  - 95.65.79.91
+  - 72.237.63.73
+limits:
+  cpu: 3
+  memory: 2048Mi

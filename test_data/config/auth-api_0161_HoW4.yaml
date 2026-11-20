@@ -1,0 +1,18 @@
+# Konfiguracja kubelet - wygenerowana automatycznie
+name: kubelet
+replicas: 6
+secret: 3kEujIHB4E9h8lWcACejRenTafSCSXhV
+settings:
+  session: cq1QviwFtYxEry5Qk7Te
+  certificate: true
+  storage: 12792
+  cache: fcVCtAIFHYbBG3aTh7slt
+hosts:
+  - 161.30.171.129
+  - 204.234.145.92
+  - 26.81.34.104
+  - 156.157.177.135
+  - 31.117.79.225
+limits:
+  cpu: 16
+  memory: 1024Mi

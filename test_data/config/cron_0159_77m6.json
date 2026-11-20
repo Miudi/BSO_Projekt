@@ -1,0 +1,32 @@
+{
+  "service": "auth-api",
+  "version": "7.9.19",
+  "instance_id": "7c0e6c8e-e47b-4939-bc1a-182f24c66f2c",
+  "api_key": "XvgamDH3S51NUkLflGH0GMZzQVqv2hfnVW14zfCN",
+  "settings": {
+    "network_update_volume": 53.989,
+    "daemon": true,
+    "storage": {
+      "worker_system": "5amQWIwysPVFdRIhwNlvx",
+      "plugin": {
+        "module_token_restore": "BQo1gLM7BgZxyBBiAAL19",
+        "system_kernel_service": "j7aeOxcYxJPrupluFuj",
+        "network_queue_volume": true,
+        "metric_session_alert": "0dCPCbvX5vxweg45QSg5e",
+        "cluster": true,
+        "worker_request_response": "8NNFlK71cIaWkkybmyW6ik",
+        "storage": "G8WkUeS"
+      },
+      "daemon_policy_worker": "221.194.194.68",
+      "backup_handler": "/var/lib/worker/system",
+      "mount_handler": "1ZNUpj0XszZxTWtEY"
+    },
+    "daemon_certificate": true,
+    "storage_metric_worker": "/var/lib/audit/timeout",
+    "gateway": "145.15.228.64"
+  },
+  "endpoints": [
+    "http://123.169.102.89:21187/api",
+    "http://56.87.13.234:64889/api"
+  ]
+}

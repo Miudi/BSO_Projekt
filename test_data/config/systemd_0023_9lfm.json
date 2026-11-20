@@ -1,0 +1,15 @@
+{
+  "service": "payment-svc",
+  "version": "3.16.70",
+  "instance_id": "3718d2c0-fbaa-4860-8038-643b239ff3bb",
+  "api_key": "ImEIbH1WDAlBVf9hxwtZINPGxr7ZDAsNugeEnjpq",
+  "settings": {
+    "handler": 23.628,
+    "worker": 37.035,
+    "audit_module_audit": "K0mHJzcygJ"
+  },
+  "endpoints": [
+    "http://224.113.187.244:54588/api",
+    "http://36.42.11.126:10760/api"
+  ]
+}

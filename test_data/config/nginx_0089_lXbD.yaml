@@ -1,0 +1,17 @@
+# Konfiguracja sshd - wygenerowana automatycznie
+name: sshd
+replicas: 3
+secret: BUF7uLsXwn4UBYeFh9GpyqwcHH1ivATL
+settings:
+  policy_alert: /var/lib/system/volume
+  kernel_retry_request: 698
+  retry: 152.175.19.15
+  gateway_metric_response: false
+hosts:
+  - 147.203.242.133
+  - 223.56.219.40
+  - 183.64.198.71
+  - 154.253.85.36
+limits:
+  cpu: 10
+  memory: 1024Mi

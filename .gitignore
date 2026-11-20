@@ -1,7 +1,6 @@
 # Test data and sensitive/archive files
 
 databases/
-test_data/
 file.key
 database.zip
 database.zip.enc

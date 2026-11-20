@@ -1,0 +1,21 @@
+# Konfiguracja postgres - wygenerowana automatycznie
+name: postgres
+replicas: 5
+secret: 7OBFf3RMUZW7eGRrLYh3YDz1bBlsjW9k
+settings:
+  restore: EUZhmyWx8rrVhta
+  scheduler_queue_network: 5NmHBPibDIH1N1oCyu
+  volume: /var/lib/handler/request
+  network: 200.220.108.25
+  plugin: 19.165
+  session_metric: obeTuQQbgGtEfO1Ez
+  service_handler: ggE3U0
+hosts:
+  - 49.245.215.240
+  - 175.111.95.18
+  - 32.165.2.134
+  - 201.115.141.190
+  - 178.55.64.158
+limits:
+  cpu: 8
+  memory: 1024Mi

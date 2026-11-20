@@ -1,0 +1,89 @@
+{
+  "service": "systemd",
+  "version": "9.14.62",
+  "instance_id": "c72e8895-0545-4fc5-afd1-61c42777ac49",
+  "api_key": "hOmGYLAnJpISasdrqA6vjAWVsSucOMjGQ5Kjl4aG",
+  "settings": {
+    "response": "Tzdgb5k",
+    "database_restore": 6.868,
+    "restore_request": {
+      "token_mount_kernel": {
+        "volume_system": [
+          11380,
+          10.725,
+          "/var/lib/network/backup",
+          true,
+          9.374,
+          18566
+        ],
+        "metric_daemon": "/var/lib/database/system",
+        "queue_audit_cache": 16724,
+        "database": [
+          28873,
+          "OjCzojjIpKGBbyU6eGub"
+        ],
+        "scheduler_cluster": [
+          "S71pzDqafbVAo2ZTKG",
+          52212,
+          "106.113.195.62",
+          "/var/lib/worker/retry"
+        ],
+        "scheduler_module_timeout": true,
+        "mount": 72.345
+      },
+      "plugin_certificate_response": {
+        "cache_storage": true,
+        "retry_policy_response": "/var/lib/restore/policy",
+        "volume_response_cluster": "226.153.30.254",
+        "backup_cluster_network": "VrGduDqtQcSYp"
+      },
+      "policy_backup": "/var/lib/response/retry",
+      "metric_volume": 26428,
+      "handler": "253.215.125.143",
+      "handler_scheduler_backup": {
+        "request_handler_storage": 4088,
+        "retry": "RrMAEEEnQfZT",
+        "cluster": true,
+        "handler": [
+          true,
+          "/var/lib/token/module",
+          64.858,
+          30.523
+        ],
+        "response_queue": [
+          31841,
+          "5KweGZg"
+        ]
+      },
+      "metric": 28185,
+      "alert": true
+    },
+    "service_cache": [
+      "/var/lib/alert/queue",
+      "/var/lib/system/volume",
+      "/var/lib/kernel/system",
+      true,
+      38.002
+    ],
+    "certificate_timeout": {
+      "metric_daemon_token": 55.097,
+      "gateway_daemon_module": 60568,
+      "cluster_worker_audit": {
+        "policy_audit": "/var/lib/retry/gateway",
+        "alert_worker_metric": [
+          "124.225.143.92",
+          39.138
+        ],
+        "certificate": "B9Sq2S0yAdEEgGCIQ1vL",
+        "network_daemon": "64.108.120.156",
+        "kernel_handler": "180.9.65.225"
+      },
+      "policy_timeout": 45728,
+      "service": true
+    },
+    "alert_retry": "/var/lib/token/cluster"
+  },
+  "endpoints": [
+    "http://148.32.190.26:20851/api"
+  ]
+}

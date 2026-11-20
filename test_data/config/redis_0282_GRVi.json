@@ -1,0 +1,59 @@
+{
+  "service": "redis",
+  "version": "8.11.59",
+  "instance_id": "bff78717-ec0e-4d08-8954-a8d4724717a0",
+  "api_key": "7ZGYuJewWuhdCm3BgRf1JYrWD5tPVWMjxfkmdypx",
+  "settings": {
+    "session": true,
+    "mount_restore": true,
+    "alert_request_storage": "3zXWnfN40qF5N60w3940",
+    "cluster_restore_kernel": true,
+    "service_mount_metric": "/var/lib/module/service",
+    "audit_restore": {
+      "handler_daemon": "/var/lib/backup/alert",
+      "mount_metric_cache": {
+        "response_storage_system": "61.205.204.88",
+        "response_handler": "249.27.242.42",
+        "service": 48.141
+      },
+      "cluster": true,
+      "timeout": {
+        "session_worker": "74.35.37.241",
+        "request": 27437,
+        "cluster_database_plugin": 82.064,
+        "worker": [
+          90.679,
+          20.263,
+          false
+        ],
+        "session_retry_token": "QWpCYbia9w21gnl",
+        "mount_module": [
+          24312,
+          18077,
+          "bbuwlrzgs"
+        ],
+        "token_alert": [
+          "62.213.10.73",
+          52530,
+          95.432,
+          26573,
+          "168.120.253.183",
+          "/var/lib/mount/session"
+        ],
+        "module_token": [
+          "/var/lib/restore/service",
+          "kIC4HFspJFrvHS8T",
+          "/var/lib/system/module"
+        ]
+      }
+    },
+    "handler": 74.064,
+    "worker": "/var/lib/kernel/queue"
+  },
+  "endpoints": [
+    "http://49.89.171.161:3706/api",
+    "http://133.134.249.140:32648/api",
+    "http://248.3.74.52:42511/api",
+    "http://4.188.121.35:8668/api"
+  ]
+}

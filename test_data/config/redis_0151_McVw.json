@@ -1,0 +1,38 @@
+{
+  "service": "backup-agent",
+  "version": "5.1.58",
+  "instance_id": "53814151-2ae3-4ab1-b668-06384ae70768",
+  "api_key": "piibkj4nkC1WciVAlDNy7dC7z8r617uzAZiaOZL6",
+  "settings": {
+    "alert_queue": false,
+    "daemon": true,
+    "worker_daemon": {
+      "response_backup_alert": false,
+      "metric_alert": "/var/lib/policy/network",
+      "restore_handler": {
+        "module_certificate_volume": "UOfV7oH",
+        "cluster_handler_module": [
+          "105.10.79.220",
+          false
+        ],
+        "scheduler": true,
+        "update": [
+          49.862,
+          "83.67.138.198",
+          "214.191.4.206",
+          15.134
+        ]
+      },
+      "gateway_cluster": "146.73.213.223",
+      "queue_update_mount": "hqdK4bF",
+      "worker": "18.131.239.56",
+      "mount_metric_retry": "/var/lib/kernel/timeout"
+    }
+  },
+  "endpoints": [
+    "http://140.230.41.152:61301/api",
+    "http://185.230.199.205:64525/api",
+    "http://8.86.166.45:48326/api",
+    "http://160.182.25.240:22558/api"
+  ]
+}

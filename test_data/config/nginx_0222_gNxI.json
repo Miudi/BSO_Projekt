@@ -1,0 +1,33 @@
+{
+  "service": "auth-api",
+  "version": "5.13.73",
+  "instance_id": "f00c992e-e626-48de-bba2-073982a32da4",
+  "api_key": "VLtluLzuFOuTgssvpKhf8hxGlxmX6u9cytbHbOrT",
+  "settings": {
+    "policy_module": {
+      "service": "/var/lib/service/cache",
+      "daemon_kernel": 37022,
+      "cache": [
+        "240.122.204.89",
+        23.754,
+        35115,
+        11.681,
+        "9.92.31.223",
+        "/var/lib/certificate/service"
+      ]
+    },
+    "database_plugin": {
+      "token_cluster_policy": "L2Pj0VvBhOhLD2F2NRZbC1Zz",
+      "handler_alert_timeout": "53.190.99.113",
+      "mount": {
+        "metric_response_timeout": "8Tc2fHYanOEb",
+        "scheduler_scheduler": "32.130.232.211",
+        "restore_request": "136.228.58.90"
+      }
+    },
+    "module": "/var/lib/module/storage"
+  },
+  "endpoints": [
+    "http://154.41.119.160:57055/api"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "service": "backup-agent",
+  "version": "7.18.80",
+  "instance_id": "3f4ab395-15ad-4ef8-88c8-a80ebd91f122",
+  "api_key": "OWnnL2FFW6U9l4i9GWbdWkoI0hZPUqitYJG6HMPE",
+  "settings": {
+    "daemon_cluster_network": "sFWBOQpl4x",
+    "network": {
+      "storage": 46084,
+      "kernel_handler": {
+        "update": "vQeiu8SAScvGZ5IDS",
+        "update_request": "oqC5Ih3",
+        "timeout_audit_system": 42.964,
+        "session_request_policy": "S5kfATwxd2ZIlestF0e3YC"
+      },
+      "scheduler_module_kernel": 26.442,
+      "module_audit_restore": {
+        "network_token_audit": 37097,
+        "retry_daemon_gateway": [
+          59852,
+          58741,
+          59252,
+          91.772
+        ],
+        "worker": "/var/lib/storage/session",
+        "update_audit": true,
+        "database": 80.262
+      },
+      "retry_service": {
+        "system_system_audit": false,
+        "token_scheduler_daemon": "/var/lib/storage/response",
+        "network_alert": [
+          "HcsCy7V7iLRuiQSjLo",
+          "75.96.106.60",
+          false,
+          "/var/lib/service/queue",
+          53.498,
+          "r0MKlLhqWxO"
+        ],
+        "alert_update_retry": 37717,
+        "module_storage": [
+          13.87,
+          71.193,
+          false,
+          "/var/lib/database/plugin"
+        ],
+        "service_restore": "/var/lib/storage/certificate"
+      },
+      "service_cache": 45331,
+      "cluster": {
+        "request_cluster": 6240,
+        "worker_session": "AzDmo9vdeIzjw4",
+        "mount": "219.55.245.93",
+        "scheduler": "1HMHI7QqSYcBVDHMdX8",
+        "token_metric": 59477,
+        "policy_network": "77.38.246.39"
+      },
+      "update_gateway_retry": [
+        "14.206.50.40",
+        true,
+        "/var/lib/scheduler/database",
+        15.238,
+        false
+      ]
+    },
+    "cluster": "/var/lib/scheduler/cache",
+    "storage_gateway": "87.240.47.1",
+    "update": false
+  },
+  "endpoints": [
+    "http://101.176.40.135:22426/api"
+  ]
+}

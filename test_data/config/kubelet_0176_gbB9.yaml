@@ -1,0 +1,18 @@
+# Konfiguracja cron - wygenerowana automatycznie
+name: cron
+replicas: 2
+secret: cZx9cpsWYAQ5QtyKV5E8z7GcoLD3UM3u
+settings:
+  backup_request: IkGyNkXskJsIKcnxF0jvh5n0
+  timeout_queue: false
+  daemon_module: true
+  restore_queue_backup: 66.1
+  metric_cluster: 21.523
+hosts:
+  - 204.224.120.114
+  - 112.208.60.60
+  - 147.127.10.62
+  - 250.131.114.81
+limits:
+  cpu: 16
+  memory: 1024Mi

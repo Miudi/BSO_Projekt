@@ -1,0 +1,23 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 3
+secret: V6NNHVWY7fPmzeuLhbr4m4qLGcw6yrMw
+settings:
+  audit: 24.075
+  plugin: true
+  plugin: 36792
+  mount_worker_storage: 22578
+  retry_cluster_restore: 1.388
+  scheduler_cache: /var/lib/metric/request
+  module_gateway_queue: /var/lib/update/gateway
+  scheduler: 25851
+  restore_worker: 100.249.89.69
+  scheduler: 25.155.167.148
+hosts:
+  - 8.18.252.53
+  - 31.249.27.185
+  - 155.155.59.159
+  - 245.165.28.72
+limits:
+  cpu: 3
+  memory: 2048Mi

@@ -1,0 +1,93 @@
+{
+  "service": "sshd",
+  "version": "5.0.93",
+  "instance_id": "13a727c2-aa4b-43ef-a81a-9fbab630a88e",
+  "api_key": "a4iT8R1xw9j2OqKD2xMNKI6fjQeS6ByegqzviSNe",
+  "settings": {
+    "cluster": {
+      "restore_module_daemon": [
+        34085,
+        39170,
+        "/var/lib/gateway/system"
+      ],
+      "cluster_module_retry": 20332,
+      "kernel": [
+        "CprZCDJidlccxk",
+        "he67D0xM"
+      ]
+    },
+    "storage": "MN7cuINf",
+    "system_metric": [
+      "/var/lib/alert/metric",
+      "/var/lib/kernel/service"
+    ],
+    "restore": {
+      "token": {
+        "queue": 33.41,
+        "retry_retry_session": 54.311,
+        "policy_handler_timeout": 26565,
+        "backup_database_update": "YruwHPRVUfcqHtn3RRfUGP",
+        "cache_update": 64056
+      },
+      "network_timeout": [
+        "3yhJNwJqqeGAY27ZrYNWE",
+        "/var/lib/mount/token",
+        80.361,
+        "161.212.27.238",
+        1563
+      ],
+      "session_kernel": {
+        "kernel_timeout_audit": "0zDSJnm3B8gh1IKugLZN",
+        "module_worker_gateway": "/var/lib/backup/certificate",
+        "worker_update": "190.23.103.22",
+        "kernel_certificate": 96.293
+      },
+      "alert_plugin_certificate": [
+        "dKUX0c7coI9d",
+        66.967,
+        "66.108.197.56"
+      ],
+      "handler_system": [
+        59.706,
+        "/var/lib/worker/scheduler",
+        42.245
+      ],
+      "daemon_cache_volume": "4ffQAsXxusnHV",
+      "gateway_mount": "9aokME9jyooYtKXzYn3"
+    },
+    "gateway_module": {
+      "update_system": "/var/lib/network/policy",
+      "alert_gateway": "125.97.221.105",
+      "plugin_cache": {
+        "daemon_scheduler_session": false,
+        "timeout_audit_session": [
+          "179.231.81.183",
+          "/var/lib/alert/queue",
+          "205.246.8.146"
+        ],
+        "system_database_worker": "OXAHUfOnmzlVE",
+        "storage_worker": true
+      },
+      "service": [
+        14364,
+        "/var/lib/module/plugin",
+        31.005,
+        "167.151.232.231",
+        16111
+      ],
+      "metric_storage": [
+        52759,
+        "/var/lib/module/policy",
+        "nVQzFAFyy",
+        56.839,
+        10499
+      ],
+      "restore_restore_mount": true
+    },
+    "queue_audit": 97.15
+  },
+  "endpoints": [
+    "http://180.130.214.59:52131/api",
+    "http://104.55.162.206:13577/api"
+  ]
+}

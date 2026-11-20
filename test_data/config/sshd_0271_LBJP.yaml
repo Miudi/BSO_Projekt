@@ -1,0 +1,17 @@
+# Konfiguracja payment-svc - wygenerowana automatycznie
+name: payment-svc
+replicas: 8
+secret: vy5tIxbNvxlXGjxGFy4qqUCLYZ9zdcve
+settings:
+  token_backup_cache: 51559
+  policy_audit_daemon: /var/lib/restore/service
+  token_update: 31330
+  token_daemon_request: 57.809
+  update_request_plugin: 97.802
+  service_storage: true
+hosts:
+  - 26.198.208.193
+  - 131.242.125.210
+limits:
+  cpu: 13
+  memory: 512Mi

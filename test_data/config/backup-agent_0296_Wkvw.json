@@ -1,0 +1,113 @@
+{
+  "service": "cron",
+  "version": "8.9.38",
+  "instance_id": "05e0736b-05ed-4166-a45d-5067c0e75571",
+  "api_key": "aRZaAM6bO4LN5uLkLqGybVLHMwDsmKXyo40w4MOC",
+  "settings": {
+    "gateway": {
+      "daemon": {
+        "database": [
+          "/var/lib/storage/retry",
+          44.855,
+          "92.98.167.143",
+          350,
+          "/var/lib/module/metric"
+        ],
+        "gateway": "73.59.60.96",
+        "session": 48279,
+        "daemon_retry_alert": 45443,
+        "database_policy": "cGdxlvk",
+        "kernel_timeout_policy": false,
+        "restore_audit": "pwbQbuzvP",
+        "retry": "/var/lib/storage/plugin"
+      },
+      "update_policy": "/var/lib/scheduler/worker",
+      "database_system": {
+        "daemon": false,
+        "metric_mount": 19023,
+        "storage": "/var/lib/scheduler/module",
+        "response": [
+          "/var/lib/audit/volume",
+          "95.175.49.130",
+          64416,
+          12.083,
+          false
+        ],
+        "network_cluster": [
+          "/var/lib/plugin/certificate",
+          false,
+          "2gVd55Y1DI0M",
+          "249.221.176.52",
+          false,
+          false
+        ]
+      },
+      "token_mount_storage": {
+        "network_worker": true,
+        "handler": "oxzjHqE6Qm03CKqTRQHqAw84",
+        "queue_backup": true,
+        "policy": "/var/lib/database/volume"
+      },
+      "storage_worker": "4xWrl5LWZ2WaesYJtOeEQ6",
+      "service": {
+        "session_policy_retry": false,
+        "timeout_volume_metric": "TPNK77",
+        "queue_restore": "/var/lib/metric/backup",
+        "kernel": "rgccy4CvGjWvvSjL",
+        "audit_alert": "/var/lib/backup/cache"
+      },
+      "mount": 6.316,
+      "retry_volume_response": 58.354
+    },
+    "timeout_session": 42445,
+    "alert_update": 78.881,
+    "kernel": {
+      "update": [
+        "/var/lib/metric/alert",
+        51.119,
+        37851,
+        30781,
+        68.81
+      ],
+      "token_worker_backup": {
+        "plugin_service_cache": 39329,
+        "system_worker_volume": 19286,
+        "module": "/var/lib/queue/handler",
+        "module_update": [
+          50795,
+          true,
+          false,
+          "19.219.130.107",
+          40108,
+          true
+        ],
+        "gateway_volume_plugin": [
+          26.24,
+          "114.161.252.215"
+        ],
+        "queue_backup": "/var/lib/network/scheduler"
+      },
+      "cache_volume_metric": true,
+      "worker": "136.158.85.79",
+      "cache_volume": {
+        "timeout_alert": [
+          "MIJ2PF1UeRtIn",
+          false,
+          17302
+        ],
+        "alert_module": false,
+        "system": [
+          "109.101.223.118",
+          58641
+        ]
+      },
+      "mount_restore_backup": "184.128.17.104"
+    }
+  },
+  "endpoints": [
+    "http://45.193.213.238:4309/api",
+    "http://106.20.242.210:58123/api",
+    "http://108.154.228.151:33822/api",
+    "http://15.77.73.17:9111/api"
+  ]
+}

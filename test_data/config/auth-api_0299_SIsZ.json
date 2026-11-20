@@ -1,0 +1,87 @@
+{
+  "service": "redis",
+  "version": "9.9.78",
+  "instance_id": "2065e3ab-7842-4a2f-b637-e701dc6d9577",
+  "api_key": "aks9hUq9AhPEbx8MEq6GqAWqTrfLl9aJlYUHX6Fl",
+  "settings": {
+    "cache_alert_queue": true,
+    "token_mount_backup": {
+      "response": "253.254.175.206",
+      "plugin_backup_volume": {
+        "scheduler": [
+          false,
+          51747,
+          "/var/lib/storage/service"
+        ],
+        "network_network_storage": "/var/lib/gateway/policy",
+        "volume": "6kRTjOmhXTIiW8DtD",
+        "response": true,
+        "response_policy_volume": [
+          true,
+          16.905,
+          6562,
+          "kvSWkC9FBRP3rwriY",
+          89.875
+        ],
+        "audit_daemon": "74.154.125.211"
+      },
+      "cache_certificate_cache": "/var/lib/audit/token",
+      "gateway_kernel_backup": {
+        "volume_worker": "YoYmJsUkviyiRVLjye51",
+        "audit_cache_request": "233.204.100.65",
+        "mount_kernel": true
+      },
+      "storage": false,
+      "cache": "HTE21G5TU3qMEJI7O6"
+    },
+    "kernel_certificate": false,
+    "request_cache": "/var/lib/retry/metric",
+    "worker_storage_handler": {
+      "service_timeout_gateway": {
+        "handler": 24238,
+        "scheduler": 51593,
+        "audit_timeout": [
+          false,
+          true,
+          "dtapWRCEBHEu7SMIJ8hrtd9",
+          "/var/lib/retry/network",
+          false
+        ],
+        "alert_policy": true,
+        "retry_module_backup": [
+          true,
+          "76.22.220.57"
+        ],
+        "policy_update_response": [
+          false,
+          "50.223.1.102",
+          "164.126.214.219",
+          "c6Me7rdssBTvudhKrHyX6oV"
+        ],
+        "database_cluster_scheduler": 68.364,
+        "volume_backup": 70.252
+      },
+      "mount": true,
+      "timeout": 15390,
+      "cluster_cache_network": "gZLailMmw2lchRbKreYbo",
+      "plugin_response": {
+        "module": "DQp0FHQiSnxNB",
+        "volume": false,
+        "update": "7dFJpkaXi",
+        "worker_mount_mount": 1.037
+      }
+    },
+    "audit_scheduler": [
+      41517,
+      true,
+      "/var/lib/session/worker",
+      91.758,
+      true
+    ]
+  },
+  "endpoints": [
+    "http://188.179.193.247:12066/api",
+    "http://176.241.248.99:62142/api",
+    "http://248.102.182.183:53576/api"
+  ]
+}

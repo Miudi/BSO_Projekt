@@ -1,0 +1,53 @@
+{
+  "service": "payment-svc",
+  "version": "9.8.8",
+  "instance_id": "5b56ecf9-0c17-41a0-940e-8eb4dcf33c8d",
+  "api_key": "6RaNLPGozrsl0OpV0GjhoL0X5EMXYtKW1Ok5NdDg",
+  "settings": {
+    "policy_retry": "0190AvplyC",
+    "kernel_update_certificate": {
+      "module_plugin_volume": "/var/lib/backup/kernel",
+      "service_scheduler": [
+        "177.140.116.90",
+        "245.75.113.212",
+        "USpAoiej1ob1K37kPeHko9",
+        "156.67.224.94",
+        12.216,
+        true
+      ],
+      "backup_volume": {
+        "certificate": 8.782,
+        "metric_kernel_module": false,
+        "retry_service_cache": [
+          true,
+          false,
+          false,
+          "/var/lib/module/restore"
+        ],
+        "storage_update_alert": 61.425,
+        "mount_cache": true
+      },
+      "network_daemon": "35.113.127.68",
+      "worker": 19828,
+      "handler_kernel": {
+        "gateway_volume_kernel": "/var/lib/certificate/scheduler",
+        "plugin_backup": "13.184.67.114",
+        "network_token_restore": "ATB2NxW",
+        "volume": 59423,
+        "token": "/var/lib/retry/response",
+        "plugin": 91.86
+      },
+      "scheduler_gateway_audit": 51.85
+    },
+    "kernel_certificate": [
+      "/var/lib/alert/cluster",
+      "qt5m1IPJh",
+      4174,
+      22388
+    ],
+    "daemon_metric": "/var/lib/kernel/worker"
+  },
+  "endpoints": [
+    "http://195.224.74.179:17230/api"
+  ]
+}

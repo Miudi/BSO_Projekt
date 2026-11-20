@@ -1,0 +1,64 @@
+{
+  "service": "auth-api",
+  "version": "7.14.36",
+  "instance_id": "6b25fd0e-8787-48b3-8af9-4cbe5737a605",
+  "api_key": "W696ODytWfv8O2zILSTJJJ4LKX13sdqyRZZKNynM",
+  "settings": {
+    "volume": [
+      "/var/lib/mount/service",
+      "tA7dHGLEKbeZMWkzUF",
+      "250.167.204.197",
+      "/var/lib/response/request",
+      43427,
+      "236.152.79.206"
+    ],
+    "handler": "183.186.33.38",
+    "retry_update_cache": true,
+    "network": 52119,
+    "plugin_request_update": {
+      "audit_storage": [
+        28.497,
+        26616
+      ],
+      "queue_retry_retry": "170.105.153.92",
+      "storage_mount": [
+        "103.2.97.214",
+        54814,
+        56533,
+        "/var/lib/volume/token"
+      ],
+      "queue_kernel": 27207,
+      "plugin_retry": 44290,
+      "metric_worker_handler": {
+        "plugin_system_policy": 14130,
+        "mount_update_certificate": [
+          18806,
+          true,
+          3833,
+          true,
+          "/var/lib/handler/policy"
+        ],
+        "certificate": "225.227.177.212",
+        "cache_retry": 41.453,
+        "volume": "204.11.104.169",
+        "cluster": true,
+        "cache_policy": [
+          "/var/lib/update/worker",
+          "/var/lib/queue/daemon",
+          81.841,
+          "dMBGnxC19P8LqOGh3l",
+          "156.109.180.222"
+        ],
+        "token_storage_module": 42.494
+      },
+      "mount_handler": "/var/lib/system/metric"
+    },
+    "scheduler": 55631
+  },
+  "endpoints": [
+    "http://6.25.78.64:45644/api",
+    "http://44.72.216.89:12475/api",
+    "http://136.172.182.166:52469/api",
+    "http://232.50.127.135:7540/api"
+  ]
+}

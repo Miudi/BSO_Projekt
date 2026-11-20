@@ -1,0 +1,21 @@
+# Konfiguracja payment-svc - wygenerowana automatycznie
+name: payment-svc
+replicas: 1
+secret: PQKZH9rj5vXbgUNu6OsIfj4XF0FcP7yh
+settings:
+  policy: 22.775
+  timeout_gateway_timeout: /var/lib/queue/certificate
+  scheduler_metric_gateway: true
+  session_policy_cache: I0Bg5u3
+  request: 121.43.231.156
+  response: 172.71.223.211
+  module: ok87j2cR2o
+hosts:
+  - 104.9.239.130
+  - 202.217.83.217
+  - 63.83.21.88
+  - 216.249.68.230
+  - 124.93.97.66
+limits:
+  cpu: 14
+  memory: 512Mi

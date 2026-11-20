@@ -1,0 +1,102 @@
+{
+  "service": "cron",
+  "version": "8.8.70",
+  "instance_id": "2fd0f03d-5e79-4618-8df4-ad2a84a4a7c6",
+  "api_key": "fEsGRLhQVfCi7NSbfAVfUgr9S4Y8YaQHPRz9Lwda",
+  "settings": {
+    "request": {
+      "scheduler": false,
+      "cluster_backup_network": false,
+      "module_queue_kernel": "136.231.50.147",
+      "request": {
+        "restore_cluster_alert": [
+          2115,
+          "237.62.173.193",
+          false,
+          43641
+        ],
+        "database_volume_kernel": "/var/lib/service/timeout",
+        "handler": "/var/lib/audit/handler",
+        "kernel_alert": 14572,
+        "response_module": 84.016,
+        "database": "/var/lib/response/kernel"
+      }
+    },
+    "scheduler_daemon": 34365,
+    "daemon": [
+      35.79,
+      30836,
+      false
+    ],
+    "storage_backup": "c77z2MkAyZRM5n6",
+    "queue_handler_system": {
+      "mount_module_service": {
+        "service_system_cache": false,
+        "audit_plugin": "231.108.70.115",
+        "cluster_backup": [
+          18.328,
+          "203.22.242.13",
+          91.032,
+          "U4VopH9d6ek9",
+          "209.232.13.135"
+        ],
+        "timeout": 13956
+      },
+      "policy": "129.96.194.187",
+      "request": "190.239.35.151",
+      "system_service_cluster": 52.719,
+      "gateway_session": "174.180.121.48",
+      "database": {
+        "restore_worker": 27417,
+        "retry_restore": "102.184.131.5",
+        "service_audit_policy": 68.485,
+        "alert_retry": "sToonLGhAgUPbS8Wj4z",
+        "backup_mount_cluster": 41760,
+        "kernel_alert": 45.758,
+        "mount": false,
+        "response": "29.157.29.67"
+      },
+      "storage_update": "127.63.13.115"
+    },
+    "gateway_worker": {
+      "queue": "/var/lib/policy/queue",
+      "gateway_volume": false,
+      "queue_request_retry": "5LYGhf8",
+      "daemon_network_worker": "TjJWeqtTxtC",
+      "response_backup_request": {
+        "request_audit_volume": [
+          true,
+          "/var/lib/worker/request",
+          52275,
+          "210.76.211.37",
+          63810
+        ],
+        "retry": "107.19.6.143",
+        "policy": 96.27,
+        "queue_handler_response": [
+          "89.253.218.84",
+          true,
+          "221.241.152.226",
+          "106.237.94.187"
+        ],
+        "timeout": "/var/lib/kernel/audit",
+        "alert_plugin": "V4qV5fOWKpQlzBg"
+      },
+      "system": "/var/lib/audit/storage"
+    },
+    "metric_metric_queue": "/var/lib/retry/module",
+    "metric_module": {
+      "worker_certificate_mount": 33.748,
+      "audit_module": {
+        "backup_timeout_retry": 15098,
+        "audit_token": "227.200.154.72",
+        "kernel": "/var/lib/plugin/token",
+        "service": true
+      },
+      "kernel_storage_database": "/var/lib/policy/module"
+    }
+  },
+  "endpoints": [
+    "http://121.140.56.202:3462/api"
+  ]
+}

@@ -1,0 +1,17 @@
+# Konfiguracja payment-svc - wygenerowana automatycznie
+name: payment-svc
+replicas: 5
+secret: LxIylIcVMPNXzNp97DdY8641tC9WgN8H
+settings:
+  backup_metric: hOppQSaIEzAqvJsr3JvJaye
+  policy_volume: /var/lib/cluster/certificate
+  timeout_session_metric: 48091
+  timeout_retry: /var/lib/cache/timeout
+  module: /var/lib/kernel/service
+  retry_metric: hGyZ7mnj
+hosts:
+  - 105.70.127.151
+  - 178.49.155.174
+limits:
+  cpu: 6
+  memory: 1024Mi

@@ -1,0 +1,22 @@
+{
+  "service": "payment-svc",
+  "version": "7.3.58",
+  "instance_id": "97fe354d-6662-4ac1-a75f-0c3e2ec50080",
+  "api_key": "792WsTekSFJzQPrdN4J4LOM3i2wncOaqtNwQhDPG",
+  "settings": {
+    "queue_handler_certificate": "oXEQk9YisrFgHFVT01gz",
+    "backup_worker": [
+      9.312,
+      "8H9vUdFxUqfzW2c",
+      "121.43.115.252",
+      33351,
+      96.308
+    ],
+    "session_policy_kernel": 63599,
+    "mount_restore": "/var/lib/cache/worker"
+  },
+  "endpoints": [
+    "http://176.25.116.247:27009/api",
+    "http://180.243.159.17:33922/api"
+  ]
+}

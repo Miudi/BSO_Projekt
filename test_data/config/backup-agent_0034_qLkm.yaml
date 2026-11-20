@@ -1,0 +1,21 @@
+# Konfiguracja auth-api - wygenerowana automatycznie
+name: auth-api
+replicas: 1
+secret: qvA82jInomLA1NhJ6DpFWWXXypnsRxXm
+settings:
+  network: 12.813
+  database: true
+  module_network_volume: /var/lib/system/timeout
+  retry_policy: true
+  scheduler_worker: 57.538
+  kernel_timeout_handler: 22603
+  queue_certificate_database: true
+  retry: 7oULvC
+  queue_scheduler_restore: 29.66
+hosts:
+  - 145.124.56.193
+  - 99.27.63.167
+  - 191.153.19.68
+limits:
+  cpu: 3
+  memory: 2048Mi

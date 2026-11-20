@@ -1,0 +1,22 @@
+# Konfiguracja backup-agent - wygenerowana automatycznie
+name: backup-agent
+replicas: 2
+secret: dCAVJPnCuiu8mSxMEoBJTtFIRK5PjgOL
+settings:
+  audit_service_network: 1X131K
+  daemon: ctqlUP4TTc2
+  module_plugin_restore: 30328
+  session_update: 54521
+  certificate_update_volume: /var/lib/certificate/network
+  request_database_gateway: nsm4uDcdd4cGhYjACLj
+  handler_timeout: YJ6CFZQShvy
+  policy_update_volume: rW9tTknwcXUtCu
+  kernel_scheduler_retry: /var/lib/retry/policy
+hosts:
+  - 203.76.79.23
+  - 42.34.25.136
+  - 214.39.28.92
+  - 33.184.163.235
+limits:
+  cpu: 4
+  memory: 1024Mi

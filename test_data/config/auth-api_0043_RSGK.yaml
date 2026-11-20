@@ -1,0 +1,17 @@
+# Konfiguracja backup-agent - wygenerowana automatycznie
+name: backup-agent
+replicas: 7
+secret: jGDxhPaUlqgpROZIYHJmKS3Yaik4wezU
+settings:
+  kernel: 58.106.143.125
+  token: 21715
+  metric_volume_policy: 123.211.159.171
+  gateway_restore_network: 12202
+  request_scheduler: /var/lib/scheduler/certificate
+hosts:
+  - 54.99.136.79
+  - 151.203.183.129
+  - 132.67.131.91
+limits:
+  cpu: 10
+  memory: 512Mi

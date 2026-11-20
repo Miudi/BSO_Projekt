@@ -1,0 +1,19 @@
+# Konfiguracja cron - wygenerowana automatycznie
+name: cron
+replicas: 7
+secret: rlitmY4g4TlALVHyDZTUrebxuB7zsbim
+settings:
+  certificate_request: /var/lib/module/scheduler
+  mount_policy_handler: 92.071
+  daemon_policy_retry: /var/lib/retry/audit
+  handler_queue_timeout: /var/lib/alert/audit
+  mount: /var/lib/response/handler
+hosts:
+  - 212.96.148.175
+  - 104.185.158.76
+  - 237.73.187.27
+  - 15.50.195.238
+  - 83.241.222.139
+limits:
+  cpu: 4
+  memory: 2048Mi

@@ -1,0 +1,23 @@
+# Konfiguracja nginx - wygenerowana automatycznie
+name: nginx
+replicas: 2
+secret: OtccspLhfTpDs74MFFhBMYjPPVkAA5Yk
+settings:
+  storage: 24.616
+  kernel_volume_scheduler: 158.106.45.75
+  timeout_service_session: true
+  timeout: 69.142.92.111
+  metric_restore_restore: /var/lib/service/token
+  response: 48919
+  response_system: /var/lib/backup/response
+  cluster_certificate_update: false
+  retry_system_certificate: /var/lib/response/timeout
+hosts:
+  - 200.28.69.179
+  - 101.143.45.17
+  - 67.26.249.96
+  - 152.37.98.6
+  - 59.241.28.160
+limits:
+  cpu: 2
+  memory: 512Mi

@@ -1,0 +1,99 @@
+{
+  "service": "cron",
+  "version": "4.2.76",
+  "instance_id": "eeb1a258-5d1f-48d6-8088-b06be14d2eee",
+  "api_key": "B4T2ZJAj2jOdnSwZw3bRGQDY1JlpWeaRPQ8BM4XG",
+  "settings": {
+    "gateway_volume_update": 71.887,
+    "token": 1491,
+    "alert_update_mount": [
+      "BjKpAxKnWlff2",
+      "/var/lib/retry/gateway",
+      "QlQTeb",
+      "89.85.196.44",
+      false
+    ],
+    "restore_cluster": [
+      94.137,
+      "2.189.172.216",
+      20691,
+      33558,
+      false
+    ],
+    "restore_request_certificate": {
+      "request": "243.85.208.213",
+      "alert_system_worker": 25.694,
+      "handler_restore_queue": {
+        "alert_daemon_cluster": "/var/lib/cache/cluster",
+        "network_module_token": [
+          17.98,
+          "65.53.152.235",
+          33145,
+          "a2nidZQU4GvZCwbwzj0sSdn",
+          91.495,
+          "Texbybq6"
+        ],
+        "timeout": "29.158.23.95",
+        "response": 55954,
+        "system_worker_database": 23841
+      },
+      "network_response": false,
+      "certificate_plugin_audit": {
+        "alert_volume": 29962,
+        "handler": "/var/lib/certificate/storage",
+        "restore_service_timeout": "PWVHfjDXCylMSD9WPqlU4x",
+        "session": "dE0SaBqaG0"
+      },
+      "timeout_backup_certificate": 10.599,
+      "scheduler": false
+    },
+    "database_kernel": {
+      "queue_backup": {
+        "response": 49.429,
+        "daemon_kernel_system": [
+          "/var/lib/database/timeout",
+          "78.185.74.18",
+          "rEfKrtTVgJ3n7ov0Aaeuy",
+          "79.61.47.168",
+          "N9686cjuaVbYUDv",
+          false
+        ],
+        "audit": "/var/lib/storage/volume",
+        "certificate_volume_restore": "34.81.227.20",
+        "worker": [
+          "EE4fYvHOOmDwdf",
+          false,
+          "234.50.96.14",
+          7.624,
+          "8Owj4qWLd"
+        ]
+      },
+      "gateway_certificate": 94.872,
+      "module_session": {
+        "audit_cluster_cluster": [
+          true,
+          "y5U8693R5B6NY6ipV",
+          48.206,
+          false,
+          "4cUqY7s",
+          "162.225.176.27"
+        ],
+        "queue_restore": 16187,
+        "timeout": [
+          true,
+          64.819,
+          "/var/lib/certificate/cache",
+          8794
+        ],
+        "cluster": "/var/lib/network/plugin",
+        "database": 25.953,
+        "request_cache": "FoHmhV93JOgcvL",
+        "module_system_service": "xqfLDeAOP"
+      }
+    }
+  },
+  "endpoints": [
+    "http://66.38.248.226:2536/api",
+    "http://127.71.212.91:23267/api"
+  ]
+}

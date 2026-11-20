@@ -1,0 +1,51 @@
+{
+  "service": "backup-agent",
+  "version": "3.1.58",
+  "instance_id": "1a756c6e-54fd-4f04-95c1-e377912a7f5c",
+  "api_key": "ZU1DY1JCEG7kgoQbZdU8r6C45zHWfHzZenohTHxP",
+  "settings": {
+    "mount_request_certificate": "/var/lib/storage/session",
+    "queue_backup_queue": {
+      "worker": [
+        11926,
+        "/var/lib/timeout/cache"
+      ],
+      "alert_mount": "/var/lib/timeout/system",
+      "cluster": false,
+      "retry_retry": "/var/lib/volume/token",
+      "retry_system": "145.94.143.222",
+      "handler_system": {
+        "gateway_system": 43.871,
+        "metric": "/var/lib/alert/cluster",
+        "volume": "5ACZPY99RtWDFWFRO"
+      },
+      "cluster_scheduler": [
+        59142,
+        "167.117.117.58",
+        "/var/lib/session/service",
+        "150.39.78.137"
+      ],
+      "response_kernel_daemon": false
+    },
+    "worker_cache_scheduler": "/var/lib/retry/session",
+    "cluster": {
+      "audit": false,
+      "metric_storage_gateway": "td0fx94",
+      "metric_cluster_restore": false,
+      "volume_gateway": 77.405,
+      "request_daemon": true
+    },
+    "kernel_daemon_certificate": [
+      false,
+      true,
+      45832,
+      true,
+      "/var/lib/scheduler/daemon",
+      96.048
+    ]
+  },
+  "endpoints": [
+    "http://168.119.176.62:14577/api",
+    "http://182.17.23.225:45354/api"
+  ]
+}
