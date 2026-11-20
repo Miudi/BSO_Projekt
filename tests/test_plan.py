@@ -27,8 +27,8 @@ import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-import integrity as itg          # noqa: E402
-import event_log as elog         # noqa: E402
+import scripts.integrity as itg          # noqa: E402
+import scripts.event_log as elog         # noqa: E402
 
 
 # --------------------------------------------------------------------------- fixtures
